@@ -81,6 +81,9 @@ Feature Engineering:
 - [11 Dimensionality reduction techniques you should know in 2021](https://towardsdatascience.com/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b) by Rukshan Pramoditha
 - [What‘s the advantages and disadvantages between the different dimension reduction methods?](https://www.quora.com/What%E2%80%98s-the-advantages-and-disadvantages-between-the-different-dimension-reduction-methods) by Luis Argerich
 
+Hyperparameter Tuning:
+- [10 Hyperparameter optimization frameworks.](https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3) by 
+Sivasai Yadav Mudugandla
 
 MLOps:
 - [MLOPS: A COMPLETE GUIDE TO MACHINE LEARNING OPERATIONS | MLOPS VS DEVOPS](https://ashutoshtripathi.com/2021/08/18/mlops-a-complete-guide-to-machine-learning-operations-mlops-vs-devops) by Ashutosh Tripathi
