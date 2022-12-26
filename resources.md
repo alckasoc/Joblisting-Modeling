@@ -9,7 +9,9 @@ Docs:
 - https://scikit-learn.org/stable/user_guide.html
 - https://github.com/cod3licious/autofeat
 - https://github.com/aerdem4/lofo-importance
-- https://hyperopt.github.io/hyperopt/
+- https://hyperopt.github.io/hyperopt/ 
+- http://hyperopt.github.io/hyperopt/getting-started/search_spaces/
+- https://github.com/hyperopt/hyperopt-sklearn
 - https://www.ray.io/ray-tune
 - https://optuna.org/
 
@@ -88,6 +90,9 @@ Hyperparameter Tuning:
 - [10 Hyperparameter optimization frameworks.](https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3) by 
 Sivasai Yadav Mudugandla
 - [Hyperparameter Tuning Techniques](https://www.youtube.com/playlist?list=PLcP8bHQl_w-FeCWgWvvPO-IXYsFLAuQiP) by Karndeep Singh
+- [How (Not) to Tune Your Model With Hyperopt](https://www.databricks.com/blog/2021/04/15/how-not-to-tune-your-model-with-hyperopt.html#:~:text=Hyperopt%20offers%20hp.uniform%20and%20hp.loguniform%2C%20both%20of%20which,0.01%2C%200.1%29%20rather%20than%20arithmetic%20%280.1%2C%200.2%2C%200.3%29.) by Sean Owen
+- [LGBM Optuna Hyperparameter Tuning w. Understanding](https://www.kaggle.com/code/bextuychiev/lgbm-optuna-hyperparameter-tuning-w-understanding/notebook#Overview-of-the-most-important-parameters) by Kaggle BEXGBOOST
+- [XGBoost & Catboost Using Optuna 🏄🏻‍♂️](https://www.kaggle.com/code/hamzaghanmi/xgboost-catboost-using-optuna) by Kaggle HAMZA
 
 MLOps:
 - [MLOPS: A COMPLETE GUIDE TO MACHINE LEARNING OPERATIONS | MLOPS VS DEVOPS](https://ashutoshtripathi.com/2021/08/18/mlops-a-complete-guide-to-machine-learning-operations-mlops-vs-devops) by Ashutosh Tripathi
