@@ -9,6 +9,9 @@ Docs:
 - https://scikit-learn.org/stable/user_guide.html
 - https://github.com/cod3licious/autofeat
 - https://github.com/aerdem4/lofo-importance
+- https://hyperopt.github.io/hyperopt/
+- https://www.ray.io/ray-tune
+- https://optuna.org/
 
 Coarse Model Selection Resources/References:
 - Decision Tree
@@ -84,6 +87,7 @@ Feature Engineering:
 Hyperparameter Tuning:
 - [10 Hyperparameter optimization frameworks.](https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3) by 
 Sivasai Yadav Mudugandla
+- [Hyperparameter Tuning Techniques](https://www.youtube.com/playlist?list=PLcP8bHQl_w-FeCWgWvvPO-IXYsFLAuQiP) by Karndeep Singh
 
 MLOps:
 - [MLOPS: A COMPLETE GUIDE TO MACHINE LEARNING OPERATIONS | MLOPS VS DEVOPS](https://ashutoshtripathi.com/2021/08/18/mlops-a-complete-guide-to-machine-learning-operations-mlops-vs-devops) by Ashutosh Tripathi
