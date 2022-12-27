@@ -94,5 +94,13 @@ Sivasai Yadav Mudugandla
 - [LGBM Optuna Hyperparameter Tuning w. Understanding](https://www.kaggle.com/code/bextuychiev/lgbm-optuna-hyperparameter-tuning-w-understanding/notebook#Overview-of-the-most-important-parameters) by Kaggle BEXGBOOST
 - [XGBoost & Catboost Using Optuna 🏄🏻‍♂️](https://www.kaggle.com/code/hamzaghanmi/xgboost-catboost-using-optuna) by Kaggle HAMZA
 
+Ensembling:
+- [Ensembling in Machine Learning.](https://medium.com/mlearning-ai/ensembling-in-machine-learning-14e378f30039) by 
+Burhanuddin Rangwala
+- [Blending Ensemble Machine Learning With Python](https://machinelearningmastery.com/blending-ensemble-machine-learning-with-python/#:~:text=Blending%20is%20an%20ensemble%20machine%20learning%20technique%20that,as%20stacked%20generalization%2C%20known%20as%20stacking%2C%20broadly%20conceived.) by Jason Brownlee
+- [hard voting versus soft voting in ensemble based methods [duplicate]](https://stats.stackexchange.com/questions/320156/hard-voting-versus-soft-voting-in-ensemble-based-methods)
+- [KAGGLE ENSEMBLING GUIDE](https://web.archive.org/web/20160304031055/http://mlwave.com/kaggle-ensembling-guide/)
+- [Basic Ensemble Techniques in Machine Learning](https://www.analyticsvidhya.com/blog/2021/03/basic-ensemble-technique-in-machine-learning/) by Himanshi Singh
+
 MLOps:
 - [MLOPS: A COMPLETE GUIDE TO MACHINE LEARNING OPERATIONS | MLOPS VS DEVOPS](https://ashutoshtripathi.com/2021/08/18/mlops-a-complete-guide-to-machine-learning-operations-mlops-vs-devops) by Ashutosh Tripathi
