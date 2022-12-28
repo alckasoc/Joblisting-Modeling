@@ -104,3 +104,4 @@ Burhanuddin Rangwala
 
 MLOps:
 - [MLOPS: A COMPLETE GUIDE TO MACHINE LEARNING OPERATIONS | MLOPS VS DEVOPS](https://ashutoshtripathi.com/2021/08/18/mlops-a-complete-guide-to-machine-learning-operations-mlops-vs-devops) by Ashutosh Tripathi
+- [Streamlit cheat sheet](https://daniellewisdl-streamlit-cheat-sheet-app-ytm9sg.streamlit.app/) by Daniel Lewis
