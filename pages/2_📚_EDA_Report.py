@@ -84,7 +84,7 @@ st.markdown("\
 
 col1, col2, col3 = st.columns([0.25, 2, 0.5])
 
-image = np.asarray(Image.open("./diagrams/joblisting_EDA_cleaning_pipeline.png").convert("RGB"))
+image = np.asarray(Image.open("./diagrams/joblisting_EDA_cleaning_pipeline.png"))
 with col1: st.write(" ")
 with col3: st.write(" ")
 with col2: 
