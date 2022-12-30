@@ -9,6 +9,7 @@ from PIL import Image
 import numpy as np
 import pandas as pd
 import sklearn
+from sklearn.model_selection import train_test_split
 import streamlit as st
 
 # Custom imports.
@@ -162,14 +163,22 @@ models = {
 }
 
 # Load preprocessing pipeline.
-@st.cache(allow_output_mutation=True)
+@st.cache
 def load_pipeline(path):
     with open(path, "rb") as f:
         pipeline = joblib.load(f)
     return pipeline
 
 pipeline = load_pipeline(pipeline_path)
-pipeline.fit(pd.read_csv("./input/X_train_val.csv"))
+
+# Define preprocessing pipeline.
+# Note: the above (loading in a fitted pipeline) doesn't seem to work. :/
+
+# seed = 42
+
+# y = df["salary estimate"]
+# X = df.drop(colulmns=["salary estimate", "company", "job title", "job description"])
+# X_train_val, _, _, _ = train_test_split(X, y, test_size=0.1, random_state=seed)
 
 # Banner.
 image = np.asarray(Image.open("./img/banner/banner.png"))
