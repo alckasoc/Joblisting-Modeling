@@ -8,6 +8,7 @@ joblib
 xgboost
 catboost
 lightgbm
+evalml
 
 
 # For project.
