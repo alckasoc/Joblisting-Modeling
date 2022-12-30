@@ -1,0 +1,36 @@
+pillow
+numpy
+pandas
+scikit-learn
+streamlit
+streamlit-aggrid
+joblib
+xgboost
+catboost
+lightgbm
+
+
+# For project.
+# pprint
+# tqdm
+
+# numpy
+# pandas
+
+# category_encoders
+# scikit-learn
+
+# xgboost
+# catboost
+# lightgbm
+# evalml
+# autofeat
+# lofo-importance
+
+# tensorflow
+
+# hyperopt
+
+# optuna
+# ray
+# ray[tune]
