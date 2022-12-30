@@ -1,3 +1,4 @@
+# For the app.
 pillow
 numpy
 pandas
@@ -18,7 +19,7 @@ evalml
 # numpy
 # pandas
 
-# category_encoders
+# category-encoders
 # scikit-learn
 
 # xgboost
