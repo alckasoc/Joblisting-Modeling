@@ -36,5 +36,13 @@ st.markdown("""
     And thank *you* for reading this! I hope this project was an absolute joy for you to look through.
 """)
 
+
+st.markdown("""
+    If you'd like to connect with me: 
+
+    - [LinkedIn](https://www.linkedin.com/in/vincent-tu-422b18208/)
+    - [GitHub](https://github.com/alckasoc)
+    - [Kaggle](https://www.kaggle.com/vincenttu)
+""")
 image = np.asarray(Image.open("./img/waving_hand.png"))
 st.image(image)
