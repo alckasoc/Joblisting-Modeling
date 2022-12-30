@@ -55,7 +55,7 @@ st.markdown("""
 # 2. Webscraping.
 st.markdown("## 2. Webscraping")
 
-image = np.asarray(Image.open("./img/banner/webscraper_banner.png"))
+image = np.asarray(Image.open("./img/banner/webscraper_banner.PNG"))
 st.image(image)
 
 col1, col2, col3 = st.columns([1, 1, 0.5])
