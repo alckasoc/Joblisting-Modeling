@@ -1,0 +1,1531 @@
+company,rating,headquarters,job type,size,type,sector,revenue
+FocusKPI Inc.,3.3,"Mountain View, CA",Full-time,51 to 200 employees,company - private,business services,less than $1 million (usd)
+Kodiak Robotics,4.5,"Mountain View, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Roche,4.3,"Santa Clara, CA",Full-time,5001 to 10000 employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Fremont Bank,3.0,"Livermore, CA",Full-time,501 to 1000 employees,company - private,finance,$1 to $2 billion (usd)
+McDonald's Corporate,3.5,"Mountain View, CA",Full-time,10000+ employees,company - public,"restaurants, bars & food services",$10+ billion (usd)
+Aruba Networks,4.2,"Santa Clara, CA",Full-time,5001 to 10000 employees,company - public,information technology,$2 to $5 billion (usd)
+Sitecore,3.6,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,information technology,$50 to $100 million (usd)
+Vitria Technology,3.5,"Menlo Park, CA",Full-time,201 to 500 employees,company - private,information technology,$25 to $50 million (usd)
+Tesla,3.8,"Fremont, CA",Full-time,10000+ employees,company - public,manufacturing,$2 to $5 billion (usd)
+Gilead Sciences,3.8,"Foster City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Spin,4.3,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+First Republic Bank,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,finance,$10+ billion (usd)
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+ABD Insurance and Financial Services,4.7,"San Francisco, CA",Full-time,201 to 500 employees,company - private,insurance,$50 to $100 million (usd)
+Genentech,4.3,"South San Francisco, CA",Full-time,10000+ employees,subsidiary or business segment,biotech & pharmaceuticals,$10+ billion (usd)
+Applied Materials Inc.,4.0,"Santa Clara, CA",Full-time,10000+ employees,company - public,manufacturing,$10+ billion (usd)
+Hearth,2.9,"San Francisco, CA",Full-time,1 to 50 employees,company - public,"construction, repair & maintenance",less than $1 million (usd)
+Varo,3.7,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+Alten,3.2,"San Francisco, CA",Full-time,10000+ employees,company - private,business services,$2 to $5 billion (usd)
+California State University,4.3,"San Jose, CA",Part-time,201 to 500 employees,college / university,education,$1 to $5 million (usd)
+BICP,5.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,$10 to $25 million (usd)
+First Republic Bank,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,finance,$10+ billion (usd)
+Lyft,3.9,"Palo Alto, CA",Full-time,5001 to 10000 employees,company - public,information technology,unknown / non-applicable
+Parker Institute for Cancer Immunotherapy,3.7,"San Francisco, CA",Full-time,51 to 200 employees,nonprofit organization,non-profit,unknown / non-applicable
+Woodruff Sawyer,4.0,"San Francisco, CA",Full-time,201 to 500 employees,company - private,insurance,$100 to $500 million (usd)
+First Republic Bank,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,finance,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Plenty,3.7,"South San Francisco, CA",Full-time,51 to 200 employees,company - private,retail,$5 to $10 million (usd)
+Wish,3.4,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+Ursus,4.4,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+VMware,4.3,"Palo Alto, CA",Part-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Roblox,4.4,"San Mateo, CA",Full-time,501 to 1000 employees,company - public,information technology,unknown / non-applicable
+"Bio-Rad Laboratories, Inc.",3.5,"Hercules, CA",Full-time,5001 to 10000 employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Walmart,3.4,"San Bruno, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Splunk,4.1,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+EOS,3.7,"Fremont, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Diffbot,4.6,"Mountain View, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Nuna,4.0,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Heluna Health,3.4,"Sacramento, CA",Full-time,1001 to 5000 employees,nonprofit organization,non-profit,$50 to $100 million (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Workday,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$2 to $5 billion (usd)
+HopHR,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,business services,unknown / non-applicable
+Xerox,3.2,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+First Republic Bank,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,finance,$10+ billion (usd)
+"TuSimple, Inc.",4.4,"San Francisco, CA",Full-time,201 to 500 employees,company - public,information technology,unknown / non-applicable
+Amazon,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Snapchat,4.1,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+Epic Games,4.2,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,media,unknown / non-applicable
+UC San Francisco Academic,4.1,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+RELX Group,3.1,"San Jose, CA",Full-time,1001 to 5000 employees,subsidiary or business segment,business services,$1 to $2 billion (usd)
+Blue River Technology,4.5,"Sunnyvale, CA",Full-time,51 to 200 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Agama Solutions,3.7,"San Francisco, CA",Full-time,51 to 200 employees,contract,information technology,$10 to $25 million (usd)
+Pinterest,4.2,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,$100 to $500 million (usd)
+Facebook,4.3,"Fremont, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+EOS,3.7,"Fremont, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Gables Search Group,3.9,"Foster City, CA",Full-time,1 to 50 employees,company - private,business services,$1 to $5 million (usd)
+Amazon,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+NextGen America,3.7,"San Francisco, CA",Full-time,51 to 200 employees,nonprofit organization,non-profit,unknown / non-applicable
+Robinhood,4.4,"Menlo Park, CA",Full-time,501 to 1000 employees,company - private,finance,unknown / non-applicable
+EPM Scientific,2.3,"San Francisco, CA",Full-time,51 to 200 employees,company - public,business services,unknown / non-applicable
+Punchh,4.1,"San Mateo, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Collective Health,3.8,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Blue River Technology,4.5,"Sunnyvale, CA",Full-time,51 to 200 employees,subsidiary or business segment,information technology,unknown / non-applicable
+McAfee,3.6,"San Jose, CA",Full-time,5001 to 10000 employees,company - public,information technology,$10+ billion (usd)
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Amazon,3.8,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Uber,4.0,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Sensor Tower,4.0,"San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+Hinge Health,4.6,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,health care,$50 to $100 million (usd)
+Square,4.3,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Embark Trucks,4.4,"San Francisco, CA",Full-time,51 to 200 employees,company - private,transportation & logistics,unknown / non-applicable
+Workday,4.3,"Pleasanton, CA",Full-time,10000+ employees,company - public,information technology,$2 to $5 billion (usd)
+Shoe Palace Corporation,3.3,"Morgan Hill, CA",Full-time,1001 to 5000 employees,company - private,retail,$25 to $50 million (usd)
+Jobot,4.8,"Mountain View, CA",Full-time,51 to 200 employees,company - private,business services,$50 to $100 million (usd)
+JD.com,3.6,"Mountain View, CA",Full-time,5001 to 10000 employees,company - public,retail,unknown / non-applicable
+6sense,4.9,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Teladoc Health,4.0,"Mountain View, CA",Full-time,1001 to 5000 employees,company - public,health care,$100 to $500 million (usd)
+Acumen LLC,3.3,"Burlingame, CA",Full-time,501 to 1000 employees,company - private,government,$10 to $25 million (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+JLL,3.9,"San Francisco, CA",Full-time,10000+ employees,company - public,real estate,$5 to $10 billion (usd)
+The Climate Corporation,3.5,"San Francisco, CA",Full-time,501 to 1000 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Robinhood,4.3,"Menlo Park, CA",Full-time,501 to 1000 employees,company - private,finance,unknown / non-applicable
+Riiid Labs,5.0,"San Ramon, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+C3 AI,4.6,"Redwood City, CA",Full-time,501 to 1000 employees,company - public,information technology,$100 to $500 million (usd)
+Webhelp Americas,3.2,"San Jose, CA",Full-time,10000+ employees,company - private,business services,$500 million to $1 billion (usd)
+eHealth,3.7,"Santa Clara, CA",Full-time,1001 to 5000 employees,company - public,insurance,$100 to $500 million (usd)
+Goodway Group,4.5,"San Francisco, CA",Full-time,201 to 500 employees,company - private,business services,unknown / non-applicable
+Zeta Global,3.7,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,business services,$100 to $500 million (usd)
+Amazon,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Vectra,2.8,"San Jose, CA",Full-time,51 to 200 employees,company - private,accounting & legal,$50 to $100 million (usd)
+Cree Inc,3.4,"Morgan Hill, CA",Full-time,5001 to 10000 employees,company - public,manufacturing,$1 to $2 billion (usd)
+Guidehouse,3.8,"San Francisco, CA",Full-time,5001 to 10000 employees,company - private,business services,unknown / non-applicable
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+The Climate Corporation,3.5,"San Francisco, CA",Full-time,501 to 1000 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Extend,4.6,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+NGUSoft,4.4,"Fremont, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Feedzai,4.1,"San Mateo, CA",Full-time,201 to 500 employees,company - private,information technology,$50 to $100 million (usd)
+Secureworks,4.2,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Plenty,3.7,"South San Francisco, CA",Full-time,51 to 200 employees,company - private,retail,$5 to $10 million (usd)
+Fluence,2.5,"San Francisco, CA",Full-time,201 to 500 employees,company - private,"oil, gas, energy & utilities",$100 to $500 million (usd)
+SiriusXM,3.7,"Oakland, CA",Full-time,1001 to 5000 employees,company - public,media,$2 to $5 billion (usd)
+CBRE,3.9,"Sunnyvale, CA",Full-time,10000+ employees,company - public,real estate,unknown / non-applicable
+Nestle USA,4.1,"Oakland, CA",Full-time,1001 to 5000 employees,subsidiary or business segment,manufacturing,$10+ billion (usd)
+Tempus,3.3,"Redwood City, CA",Full-time,501 to 1000 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+OPPO US Research Center,4.5,"Palo Alto, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+University of California San Francisco,4.2,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Penumbra US,3.9,"Alameda, CA",Full-time,1001 to 5000 employees,company - public,health care,$100 to $500 million (usd)
+Heluna Health,3.4,"San Francisco, CA",Full-time,1001 to 5000 employees,nonprofit organization,non-profit,$50 to $100 million (usd)
+eHealth,3.7,"Santa Clara, CA",Full-time,1001 to 5000 employees,company - public,insurance,$100 to $500 million (usd)
+Power Integrations,3.8,"San Jose, CA",Full-time,501 to 1000 employees,company - public,manufacturing,$100 to $500 million (usd)
+Jazz Pharma,4.1,"Palo Alto, CA",Full-time,1001 to 5000 employees,company - public,biotech & pharmaceuticals,$1 to $2 billion (usd)
+Proclinical Staffing,4.2,"Brisbane, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+Jazz Pharma,4.1,"Palo Alto, CA",Full-time,1001 to 5000 employees,company - public,biotech & pharmaceuticals,$1 to $2 billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+ACL Digital,3.5,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,information technology,unknown / non-applicable
+Surya Systems,4.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+EOS,3.5,"Fremont, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Match Group,4.0,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+Poshmark,4.6,"Redwood City, CA",Full-time,201 to 500 employees,company - public,information technology,$100 to $500 million (usd)
+"Personalis, Inc",3.9,"Menlo Park, CA",Full-time,201 to 500 employees,company - public,biotech & pharmaceuticals,$25 to $50 million (usd)
+Pendulum.co,4.3,"San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Tesla,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,manufacturing,$2 to $5 billion (usd)
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+kover,4.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+TargetCW,4.4,"San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,$100 to $500 million (usd)
+Amazon,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Dell Technologies,4.2,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Dolby,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,$1 to $2 billion (usd)
+LaBine and Associates,5.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,business services,unknown / non-applicable
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+Twitter,4.2,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,$2 to $5 billion (usd)
+Goldman Sachs,4.0,"Menlo Park, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+BEPC Inc,3.7,"San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,$10 to $25 million (usd)
+Akoya Biosciences,4.0,"Menlo Park, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+"Zipcar, Inc.",3.5,"South San Francisco, CA",Full-time,201 to 500 employees,subsidiary or business segment,travel & tourism,$100 to $500 million (usd)
+Skan,4.8,"San Jose, CA",Full-time,1 to 50 employees,company - private,business services,unknown / non-applicable
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+6sense,4.9,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+JD.com,3.6,"Mountain View, CA",Full-time,5001 to 10000 employees,company - public,retail,unknown / non-applicable
+SoFi,3.6,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,finance,unknown / non-applicable
+Humanyze,3.5,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Nauto,4.1,"Palo Alto, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Vectra,2.8,"San Jose, CA",Full-time,51 to 200 employees,company - private,accounting & legal,$50 to $100 million (usd)
+Tempus Labs,3.2,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+NVIDIA,4.7,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Accenture,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,business services,$10+ billion (usd)
+LegalZoom,3.2,"San Mateo, CA",Full-time,1001 to 5000 employees,company - private,information technology,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Ursus,4.4,"Sunnyvale, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Facebook,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+PG&E Corporation,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,"oil, gas, energy & utilities",$10+ billion (usd)
+Adventist Health,3.6,"Lodi, CA",Full-time,10000+ employees,nonprofit organization,health care,unknown / non-applicable
+ALLDATA,4.1,"Elk Grove, CA",Full-time,501 to 1000 employees,subsidiary or business segment,information technology,$50 to $100 million (usd)
+FICO,3.9,"San Jose, CA",Full-time,1001 to 5000 employees,company - public,information technology,$500 million to $1 billion (usd)
+Udemy,4.7,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,education,unknown / non-applicable
+Charles River Laboratories,3.5,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Agama Solutions,3.7,"San Francisco, CA",Full-time,51 to 200 employees,contract,information technology,$10 to $25 million (usd)
+Wealthfront,4.5,"Palo Alto, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+University of California San Francisco,4.1,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Equinix,4.4,"Sunnyvale, CA",Internship,5001 to 10000 employees,company - public,information technology,$2 to $5 billion (usd)
+Granular,3.6,"San Francisco, CA",Full-time,201 to 500 employees,company - public,information technology,unknown / non-applicable
+"University of California, Davis",4.4,"Davis, CA",Full-time,10000+ employees,college / university,education,$1 to $2 billion (usd)
+Freenome Holdings,4.9,"South San Francisco, CA",Full-time,51 to 200 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Sitecore,3.7,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,information technology,$50 to $100 million (usd)
+freshworks,4.3,"San Mateo, CA",Full-time,1001 to 5000 employees,company - private,information technology,unknown / non-applicable
+Twitter,4.2,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,$2 to $5 billion (usd)
+Genentech,4.3,"South San Francisco, CA",Full-time,10000+ employees,subsidiary or business segment,biotech & pharmaceuticals,$10+ billion (usd)
+Oak Valley Hospital District,3.3,"Oakdale, CA",Part-time,201 to 500 employees,hospital,health care,$50 to $100 million (usd)
+IBM,3.9,"San Jose, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Nextdoor,4.6,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Codexis,3.2,"Redwood City, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,$25 to $50 million (usd)
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Plum Lending,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,finance,unknown / non-applicable
+Indeed,4.3,"San Francisco, CA",Full-time,10000+ employees,company - private,information technology,$2 to $5 billion (usd)
+Amazon,3.8,"East Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Indeed,4.3,"San Francisco, CA",Full-time,10000+ employees,company - private,information technology,$2 to $5 billion (usd)
+PicnicHealth,4.7,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Indeed,4.3,"Sunnyvale, CA",Full-time,10000+ employees,company - private,information technology,$2 to $5 billion (usd)
+Wish,3.4,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+AMPAC Fine Chemicals,3.1,"Rancho Cordova, CA",Full-time,501 to 1000 employees,subsidiary or business segment,biotech & pharmaceuticals,$100 to $500 million (usd)
+PAX Labs,2.8,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,$50 to $100 million (usd)
+Akoya Biosciences,4.0,"Menlo Park, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+Pocket Worlds,4.6,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Amazon,3.8,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+8k Miles,3.9,"Pleasanton, CA",Full-time,201 to 500 employees,company - public,information technology,$1 to $5 million (usd)
+"Agilent Technologies, Inc.",4.3,"Santa Clara, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Jobot,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,$50 to $100 million (usd)
+AVANADE,4.1,"Concord, CA",Full-time,10000+ employees,company - private,information technology,$2 to $5 billion (usd)
+DocuSign,4.6,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Lucid Motors,4.1,"Newark, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+Lucid Motors,4.1,"Newark, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+Slack,4.7,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+ONX,4.3,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Google,4.5,"Mountain View, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+3T Biosciences,4.1,"South San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+OPPO US Research Center,4.5,"Palo Alto, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Walmart,3.4,"San Bruno, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Carbon3D,3.7,"Redwood City, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Fiserv,3.4,"San Jose, CA",Full-time,10000+ employees,company - public,finance,$5 to $10 billion (usd)
+LGC Limited,3.5,"Petaluma, CA",Full-time,1001 to 5000 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+CBS Interactive,4.0,"San Francisco, CA",Full-time,1001 to 5000 employees,subsidiary or business segment,media,unknown / non-applicable
+Spartan Technologies,3.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,$5 to $10 million (usd)
+PicnicHealth,4.7,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Xerox,3.3,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Tesla,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,manufacturing,$2 to $5 billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Kaiser Permanente,4.0,"Oakland, CA",Full-time,10000+ employees,nonprofit organization,health care,$10+ billion (usd)
+Skan,4.8,"San Jose, CA",Full-time,1 to 50 employees,company - private,business services,unknown / non-applicable
+3T Biosciences,4.1,"South San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Plum Lending,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,finance,unknown / non-applicable
+Roche,4.3,"South San Francisco, CA",Full-time,5001 to 10000 employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Facebook,4.3,"Burlingame, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Glu Mobile,4.2,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,information technology,$100 to $500 million (usd)
+Blue River Technology,4.5,"Sunnyvale, CA",Full-time,51 to 200 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Glu Mobile,4.2,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,information technology,$100 to $500 million (usd)
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Microsoft,4.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Faire,4.7,"San Francisco, CA",Full-time,201 to 500 employees,company - private,business services,unknown / non-applicable
+TechTrueUP,3.6,"South San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+"Pasona N A, Inc.",3.8,"Davis, CA",Full-time,51 to 200 employees,company - private,business services,$25 to $50 million (usd)
+Thermo Fisher Scientific,3.8,"South San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Faire,4.7,"San Francisco, CA",Full-time,201 to 500 employees,company - private,business services,unknown / non-applicable
+Capgemini,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+TEKPLAY SYSTEMS,3.6,"San Jose, CA",Full-time,501 to 1000 employees,company - private,business services,unknown / non-applicable
+Xoriant Corporation,4.0,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,information technology,$100 to $500 million (usd)
+Kodiak Robotics,4.5,"Mountain View, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Sentient Energy,3.9,"Santa Clara, CA",Full-time,10000+ employees,company - private,"oil, gas, energy & utilities",$10+ billion (usd)
+Amobee,3.9,"Redwood City, CA",Full-time,501 to 1000 employees,company - private,business services,$500 million to $1 billion (usd)
+Chinese Hospital,3.8,"San Francisco, CA",Full-time,201 to 500 employees,company - private,health care,$100 to $500 million (usd)
+Autodesk,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$2 to $5 billion (usd)
+eBay Inc.,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Square,4.3,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Kaiser Permanente,4.0,"Oakland, CA",Full-time,10000+ employees,nonprofit organization,health care,$10+ billion (usd)
+Webhelp Americas,3.2,"San Bruno, CA",Full-time,10000+ employees,company - private,business services,$500 million to $1 billion (usd)
+Uber,4.0,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Intel,4.1,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Food Management Search,4.1,"South San Francisco, CA",Full-time,1 to 50 employees,company - private,business services,unknown / non-applicable
+Amazon,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Slack,4.7,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+Juniper Networks,3.9,"Cupertino, CA",Full-time,5001 to 10000 employees,company - public,telecommunications,$2 to $5 billion (usd)
+Blue River Technology,4.5,"Sunnyvale, CA",Full-time,51 to 200 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Opendoor,3.8,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,real estate,$5 to $10 billion (usd)
+University of California San Francisco,4.2,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Blue Shield of California,4.4,"Oakland, CA",Full-time,5001 to 10000 employees,nonprofit organization,insurance,$10+ billion (usd)
+McDonald's Corporate,3.5,"Mountain View, CA",Full-time,10000+ employees,company - public,"restaurants, bars & food services",$10+ billion (usd)
+kover,4.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Sensor Tower,4.0,"San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+"Association For Energy Affordability, Inc.",2.8,"Emeryville, CA",Full-time,51 to 200 employees,company - private,transportation & logistics,$10 to $25 million (usd)
+Niantic,3.5,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,media,unknown / non-applicable
+Niantic,3.6,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,media,unknown / non-applicable
+MarinHealth Medical Center,3.4,"Greenbrae, CA",Full-time,1001 to 5000 employees,hospital,health care,$100 to $500 million (usd)
+Clearbit,4.3,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Freenome,4.9,"San Francisco, CA",Full-time,51 to 200 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Splunk,4.1,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Amazon,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Wish,3.3,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+Juniper Networks,3.9,"Cupertino, CA",Full-time,5001 to 10000 employees,company - public,telecommunications,$2 to $5 billion (usd)
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Facebook,4.3,"Burlingame, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+PicnicHealth,4.7,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Teladoc Health,4.0,"Mountain View, CA",Full-time,1001 to 5000 employees,company - public,health care,$100 to $500 million (usd)
+Fiserv,3.3,"San Jose, CA",Full-time,10000+ employees,company - public,finance,$5 to $10 billion (usd)
+MasterClass,4.5,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Guidehouse,3.8,"San Francisco, CA",Full-time,5001 to 10000 employees,company - private,business services,unknown / non-applicable
+PAX Labs,2.8,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,$50 to $100 million (usd)
+PicnicHealth,4.7,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Adventist Health,3.6,"Saint Helena, CA",Full-time,10000+ employees,nonprofit organization,health care,unknown / non-applicable
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+JD.com,3.6,"Mountain View, CA",Full-time,5001 to 10000 employees,company - public,retail,unknown / non-applicable
+Mythic-AI,4.5,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Twitch,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Intel,4.1,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Centrify,3.4,"Santa Clara, CA",Full-time,201 to 500 employees,company - private,information technology,$100 to $500 million (usd)
+Diffbot,4.6,"Mountain View, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Kaiser Permanente,4.0,"Oakland, CA",Full-time,10000+ employees,nonprofit organization,health care,$10+ billion (usd)
+Ursus,4.4,"Fremont, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+KPMG,3.9,"San Francisco, CA",Full-time,10000+ employees,company - private,business services,$1 to $2 billion (usd)
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Stanford University,4.2,"Stanford, CA",Full-time,5001 to 10000 employees,college / university,education,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Feedzai,4.0,"San Mateo, CA",Full-time,201 to 500 employees,company - private,information technology,$50 to $100 million (usd)
+Goldman Sachs,4.0,"Menlo Park, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+"Association For Energy Affordability, Inc.",2.8,"Emeryville, CA",Full-time,51 to 200 employees,company - private,transportation & logistics,$10 to $25 million (usd)
+First Republic Bank,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,finance,$10+ billion (usd)
+Moveworks,4.8,"Mountain View, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Exponent,3.8,"Menlo Park, CA",Full-time,1001 to 5000 employees,company - public,business services,$100 to $500 million (usd)
+CitiusTech,3.8,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,information technology,$100 to $500 million (usd)
+SoFi,3.6,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,finance,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+Indeed,4.3,"Sunnyvale, CA",Full-time,10000+ employees,company - private,information technology,$2 to $5 billion (usd)
+Riiid Labs,5.0,"San Ramon, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+AutoZone,3.3,"Elk Grove, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Metromile,4.3,"San Francisco, CA",Full-time,201 to 500 employees,company - public,insurance,unknown / non-applicable
+Madison Reed,4.0,"San Francisco, CA",Full-time,51 to 200 employees,company - private,retail,unknown / non-applicable
+"Agilent Technologies, Inc.",4.3,"Santa Clara, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Webhelp Americas,3.2,"San Jose, CA",Full-time,10000+ employees,company - private,business services,$500 million to $1 billion (usd)
+NVIDIA,4.7,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Wish,3.3,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+Twitter,4.2,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,$2 to $5 billion (usd)
+RELX Group,3.1,"San Jose, CA",Full-time,1001 to 5000 employees,subsidiary or business segment,business services,$1 to $2 billion (usd)
+Wing,2.1,"Palo Alto, CA",Full-time,51 to 200 employees,subsidiary or business segment,business services,$10 to $25 million (usd)
+UnifyID,4.2,"Redwood City, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Synapse Financial Technologies Inc,3.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+On-Board Companies,3.4,"South San Francisco, CA",Full-time,1001 to 5000 employees,company - private,business services,$25 to $50 million (usd)
+Arkose Labs,4.4,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Snapchat,4.2,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+Health at Scale Corporation,4.1,"San Jose, CA",Full-time,1 to 50 employees,company - public,information technology,unknown / non-applicable
+Toyota Research Institute,3.8,"Los Altos, CA",Full-time,201 to 500 employees,subsidiary or business segment,business services,unknown / non-applicable
+Kaiser Permanente,4.0,"Pleasanton, CA",Full-time,10000+ employees,nonprofit organization,health care,$10+ billion (usd)
+Levi Strauss & Co.,4.1,"San Francisco, CA",Part-time,10000+ employees,company - public,retail,$2 to $5 billion (usd)
+Vitria Technology,3.5,"Menlo Park, CA",Full-time,201 to 500 employees,company - private,information technology,$25 to $50 million (usd)
+"Ordr, Inc.",4.5,"Santa Clara, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+University of California San Francisco,4.1,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Capgemini,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Parker Institute for Cancer Immunotherapy,3.7,"San Francisco, CA",Full-time,51 to 200 employees,nonprofit organization,non-profit,unknown / non-applicable
+Tempus,3.3,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+HopHR,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,business services,unknown / non-applicable
+Tesla,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,manufacturing,$2 to $5 billion (usd)
+Facebook,4.3,"Fremont, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Akoya Biosciences,4.0,"Menlo Park, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+The Climate Corporation,3.6,"San Francisco, CA",Full-time,501 to 1000 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Spartan Technologies,3.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,$5 to $10 million (usd)
+PayJoy,4.6,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+Moveworks,4.8,"Mountain View, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Afterpay Touch,3.7,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,information technology,$5 to $10 billion (usd)
+Facebook,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Square,4.3,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Loom,4.9,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,$5 to $10 million (usd)
+PayPal,4.1,"San Jose, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Accenture,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,business services,$10+ billion (usd)
+Rivian Automotive,4.3,"Palo Alto, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+Veeva Systems,4.1,"Pleasanton, CA",Full-time,1001 to 5000 employees,company - public,information technology,$1 to $2 billion (usd)
+Varo,3.7,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+Facebook,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Akoya Biosciences,4.0,"Menlo Park, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+Williams Sonoma,3.1,"San Francisco, CA",Full-time,10000+ employees,company - public,retail,$5 to $10 billion (usd)
+Dictionary.com,3.0,"Oakland, CA",Full-time,1 to 50 employees,subsidiary or business segment,information technology,unknown / non-applicable
+"Personalis, Inc",3.8,"Menlo Park, CA",Full-time,201 to 500 employees,company - public,biotech & pharmaceuticals,$25 to $50 million (usd)
+Salesforce,4.5,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+PG&E Corporation,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,"oil, gas, energy & utilities",$10+ billion (usd)
+Sentient Energy,3.1,"Santa Clara, CA",Full-time,1 to 50 employees,company - private,"oil, gas, energy & utilities",$1 to $5 million (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+MasterClass,4.5,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Sitecore,3.7,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,information technology,$50 to $100 million (usd)
+Wider Circle,4.8,"Redwood City, CA",Full-time,1 to 50 employees,company - private,health care,unknown / non-applicable
+Amazon,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Tinder,3.7,"San Francisco, CA",Full-time,201 to 500 employees,company - public,information technology,unknown / non-applicable
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Microsoft,4.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Spartan Technologies,3.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,$5 to $10 million (usd)
+PG&E Corporation,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,"oil, gas, energy & utilities",$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+AVANADE,4.1,"Concord, CA",Full-time,10000+ employees,company - private,information technology,$2 to $5 billion (usd)
+23andMe,4.1,"Sunnyvale, CA",Full-time,501 to 1000 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Chan Zuckerberg Biohub,3.4,"San Francisco, CA",Full-time,1 to 50 employees,nonprofit organization,non-profit,unknown / non-applicable
+Cuberg,4.7,"Emeryville, CA",Full-time,1 to 50 employees,company - private,"oil, gas, energy & utilities",unknown / non-applicable
+RELX Group,3.1,"San Jose, CA",Full-time,1001 to 5000 employees,subsidiary or business segment,business services,$1 to $2 billion (usd)
+Epic,4.7,"Redwood City, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Kuaishou Technology,4.1,"Palo Alto, CA",Full-time,5001 to 10000 employees,company - private,information technology,unknown / non-applicable
+Verana Health,3.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Amobee,3.9,"Redwood City, CA",Full-time,501 to 1000 employees,company - private,business services,$500 million to $1 billion (usd)
+Collective Health,3.8,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+"TuSimple, Inc.",4.4,"San Francisco, CA",Full-time,201 to 500 employees,company - public,information technology,unknown / non-applicable
+Step,2.6,"Palo Alto, CA",Full-time,201 to 500 employees,nonprofit organization,non-profit,$10 to $25 million (usd)
+Forethought,5.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Adobe,4.4,"San Jose, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Johnson & Johnson Family of Companies,4.2,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Bayer,4.2,"Berkeley, CA",Full-time,10000+ employees,company - private,biotech & pharmaceuticals,$10+ billion (usd)
+Arkose Labs,4.4,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Exponent,3.6,"Menlo Park, CA",Full-time,1001 to 5000 employees,company - public,business services,$100 to $500 million (usd)
+Power Integrations,3.8,"San Jose, CA",Full-time,501 to 1000 employees,company - public,manufacturing,$100 to $500 million (usd)
+California State University,4.3,"San Francisco, CA",Full-time,201 to 500 employees,college / university,education,$1 to $5 million (usd)
+Glu Mobile,4.2,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,information technology,$100 to $500 million (usd)
+Diffbot,4.6,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+ACL Digital,3.5,"Menlo Park, CA",Full-time,1001 to 5000 employees,company - private,information technology,unknown / non-applicable
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Ursus,4.4,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+C3 AI,4.6,"Redwood City, CA",Full-time,501 to 1000 employees,company - public,information technology,$100 to $500 million (usd)
+MadKudu,5.0,"Mountain View, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Pendulum.co,4.3,"San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+"Earli, Inc.",3.2,"South San Francisco, CA",Full-time,1 to 50 employees,company - public,manufacturing,$10 to $25 million (usd)
+Forethought,5.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Bill.com,4.2,"San Jose, CA",Full-time,501 to 1000 employees,company - public,finance,$50 to $100 million (usd)
+Pendulum.co,4.3,"San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+VMware,4.3,"Palo Alto, CA",Part-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+AlignTech,4.4,"San Jose, CA",Full-time,10000+ employees,company - public,manufacturing,$1 to $2 billion (usd)
+Adobe,4.4,"San Jose, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Facebook,4.3,"Fremont, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Kaiser Permanente,4.0,"Oakland, CA",Full-time,10000+ employees,nonprofit organization,health care,$10+ billion (usd)
+PicnicHealth,4.7,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+PG&E Corporation,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,"oil, gas, energy & utilities",$10+ billion (usd)
+SiriusXM,3.8,"Oakland, CA",Full-time,1001 to 5000 employees,company - public,media,$2 to $5 billion (usd)
+Edgesource Corporation,3.9,"Mountain View, CA",Full-time,51 to 200 employees,company - public,information technology,$10 to $25 million (usd)
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Nestle USA,4.0,"Oakland, CA",Full-time,1001 to 5000 employees,subsidiary or business segment,manufacturing,$10+ billion (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Rivian Automotive,4.3,"Palo Alto, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+Ursus,4.4,"Fremont, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Abl Schools,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,business services,unknown / non-applicable
+Parker Institute for Cancer Immunotherapy,4.0,"San Francisco, CA",Full-time,51 to 200 employees,nonprofit organization,non-profit,unknown / non-applicable
+23andMe,4.1,"South San Francisco, CA",Full-time,501 to 1000 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+The Mom Project,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+Metromile,4.3,"San Francisco, CA",Full-time,201 to 500 employees,company - public,insurance,unknown / non-applicable
+Amazon,3.8,"East Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Step,2.6,"Palo Alto, CA",Full-time,201 to 500 employees,nonprofit organization,non-profit,$10 to $25 million (usd)
+Spin,4.3,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Square,4.3,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Qualys,3.6,"Foster City, CA",Full-time,501 to 1000 employees,company - public,information technology,$100 to $500 million (usd)
+CBS Interactive,4.0,"San Francisco, CA",Full-time,1001 to 5000 employees,subsidiary or business segment,media,unknown / non-applicable
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Exponent,3.6,"Menlo Park, CA",Full-time,1001 to 5000 employees,company - public,business services,$100 to $500 million (usd)
+SpanIdea,3.8,"Milpitas, CA",Full-time,501 to 1000 employees,company - private,information technology,$10 to $25 million (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Niantic,3.5,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,media,unknown / non-applicable
+Noodle.ai,3.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,$25 to $50 million (usd)
+Microsoft,4.4,"Mountain View, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Ursus,4.4,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Ursus,4.4,"Burlingame, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Aruba Networks,4.0,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,unknown / non-applicable
+"TuSimple, Inc.",4.4,"San Francisco, CA",Full-time,201 to 500 employees,company - public,information technology,unknown / non-applicable
+Tempus,3.3,"Redwood City, CA",Full-time,501 to 1000 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Akoya Biosciences,4.0,"Menlo Park, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Twilio,4.4,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,$500 million to $1 billion (usd)
+University of California San Francisco,4.1,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+First Republic Bank,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,finance,$10+ billion (usd)
+Snapchat,4.2,"Mountain View, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+Energy Solutions,3.7,"Oakland, CA",Full-time,51 to 200 employees,company - private,"oil, gas, energy & utilities",$10 to $25 million (usd)
+PicnicHealth,4.7,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Rivian Automotive,4.3,"Palo Alto, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+Vitria Technology,3.5,"Menlo Park, CA",Full-time,201 to 500 employees,company - private,information technology,$25 to $50 million (usd)
+HopHR,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,business services,unknown / non-applicable
+AutoZone,3.3,"Elk Grove, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Forethought,5.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Covered California,3.8,"Sacramento, CA",Full-time,1001 to 5000 employees,government,government,unknown / non-applicable
+SupportLogic,5.0,"Santa Clara, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+"CytomX Therapeutics, Inc.",3.4,"South San Francisco, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Levi Strauss & Co.,4.1,"San Francisco, CA",Part-time,10000+ employees,company - public,retail,$2 to $5 billion (usd)
+Health Plan of San Mateo,3.8,"South San Francisco, CA",Full-time,201 to 500 employees,nonprofit organization,non-profit,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Robinhood,4.4,"Menlo Park, CA",Full-time,501 to 1000 employees,company - private,finance,unknown / non-applicable
+GSN Games,3.3,"San Francisco, CA",Contract,201 to 500 employees,company - private,media,unknown / non-applicable
+Palo Alto Networks,3.9,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$2 to $5 billion (usd)
+Fanatics Inc.,3.9,"San Mateo, CA",Full-time,5001 to 10000 employees,company - private,information technology,$1 to $2 billion (usd)
+Amazon,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Stitch Fix,3.7,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,retail,$500 million to $1 billion (usd)
+Udemy,4.7,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,education,unknown / non-applicable
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Charles River Laboratories,3.5,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Blue Shield of California,4.3,"Oakland, CA",Full-time,5001 to 10000 employees,nonprofit organization,insurance,$10+ billion (usd)
+JD.com,3.6,"Mountain View, CA",Full-time,5001 to 10000 employees,company - public,retail,unknown / non-applicable
+Snapchat,4.2,"Mountain View, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+Chan Zuckerberg Initiative,4.0,"Redwood City, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Madison Reed,4.0,"San Francisco, CA",Full-time,51 to 200 employees,company - private,retail,unknown / non-applicable
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+Big Data Federation,4.1,"Santa Clara, CA",Full-time,1 to 50 employees,company - private,finance,unknown / non-applicable
+Kaiser Permanente,4.0,"Oakland, CA",Full-time,10000+ employees,nonprofit organization,health care,$10+ billion (usd)
+Zipline,4.3,"South San Francisco, CA",Full-time,501 to 1000 employees,company - private,transportation & logistics,unknown / non-applicable
+Moveworks.ai,4.8,"Mountain View, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Wing,2.1,"Palo Alto, CA",Full-time,51 to 200 employees,subsidiary or business segment,business services,$10 to $25 million (usd)
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Tesla,3.8,"Fremont, CA",Full-time,10000+ employees,company - public,manufacturing,$2 to $5 billion (usd)
+Adventist Health,3.6,"Clearlake, CA",Full-time,10000+ employees,nonprofit organization,health care,unknown / non-applicable
+Stitch Fix,3.7,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,retail,$500 million to $1 billion (usd)
+Sentient Energy,3.9,"Santa Clara, CA",Full-time,10000+ employees,company - private,"oil, gas, energy & utilities",$10+ billion (usd)
+Tapjoy,3.6,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,$10 to $25 million (usd)
+Zscaler,4.7,"San Jose, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+Arkose Labs,4.4,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Tinder,4.0,"San Francisco, CA",Full-time,201 to 500 employees,company - public,information technology,unknown / non-applicable
+FICO,3.9,"San Jose, CA",Full-time,1001 to 5000 employees,company - public,information technology,$500 million to $1 billion (usd)
+Wish,3.3,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Rivian Automotive,4.3,"Palo Alto, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+Levi Strauss & Co.,4.1,"San Francisco, CA",Part-time,10000+ employees,company - public,retail,$2 to $5 billion (usd)
+PicnicHealth,4.7,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Facebook,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Uber,4.0,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Tesla,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,manufacturing,$2 to $5 billion (usd)
+BlackRock,4.1,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+Blue Shield of California,4.4,"Oakland, CA",Full-time,5001 to 10000 employees,nonprofit organization,insurance,$10+ billion (usd)
+Tesla,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,manufacturing,$2 to $5 billion (usd)
+Visual Concepts,4.2,"Novato, CA",Full-time,51 to 200 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Varo,3.7,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+Change Healthcare,3.4,"Emeryville, CA",Full-time,10000+ employees,company - public,information technology,unknown / non-applicable
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+Cruise,3.6,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,information technology,unknown / non-applicable
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Embark Trucks,4.4,"San Francisco, CA",Full-time,51 to 200 employees,company - private,transportation & logistics,unknown / non-applicable
+Adobe,4.4,"San Jose, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Gilead Sciences,3.8,"Foster City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+KPMG,3.9,"San Francisco, CA",Full-time,10000+ employees,company - private,business services,$1 to $2 billion (usd)
+Kaiser Permanente,4.0,"Oakland, CA",Full-time,10000+ employees,nonprofit organization,health care,$10+ billion (usd)
+Johnson Controls,3.5,"San Jose, CA",Full-time,10000+ employees,company - public,manufacturing,$10+ billion (usd)
+Kuaishou Technology,4.1,"Palo Alto, CA",Full-time,5001 to 10000 employees,company - private,information technology,unknown / non-applicable
+Agama Solutions,3.7,"San Francisco, CA",Full-time,51 to 200 employees,contract,information technology,$10 to $25 million (usd)
+JLL,3.9,"San Francisco, CA",Full-time,10000+ employees,company - public,real estate,$5 to $10 billion (usd)
+Kaiser Permanente,4.0,"Pleasanton, CA",Full-time,10000+ employees,nonprofit organization,health care,$10+ billion (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+VMware,4.3,"San Francisco, CA",Part-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Lawrence Livermore National Laboratory,4.6,"Livermore, CA",Full-time,5001 to 10000 employees,government,government,$1 to $2 billion (usd)
+Exponent,3.6,"Menlo Park, CA",Full-time,1001 to 5000 employees,company - public,business services,$100 to $500 million (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+BlackRock,4.1,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+One Concern,3.7,"Menlo Park, CA",Full-time,51 to 200 employees,company - private,information technology,$1 to $5 million (usd)
+Charles River Laboratories,3.5,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+University of California San Francisco,4.1,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+4Insite,4.0,"Sacramento, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Lyra Health,4.8,"Burlingame, CA",Full-time,201 to 500 employees,company - private,health care,$100 to $500 million (usd)
+Amazon,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Heluna Health,3.4,"Sacramento, CA",Full-time,1001 to 5000 employees,nonprofit organization,non-profit,$50 to $100 million (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Ordr,4.1,"Santa Clara, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Amazon,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Stitch Fix,3.7,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,retail,$500 million to $1 billion (usd)
+Cloudflare,4.1,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,information technology,unknown / non-applicable
+Stitch Fix,3.7,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,retail,$500 million to $1 billion (usd)
+Punchh,4.1,"San Mateo, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Lemonaid Health,4.9,"San Francisco, CA",Full-time,1 to 50 employees,company - private,health care,$10 to $25 million (usd)
+Innoplexus,3.9,"San Francisco, CA",Full-time,201 to 500 employees,company - private,business services,$1 to $5 million (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Facebook,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Xerox,3.3,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+KLA-Tencor,3.9,"Milpitas, CA",Full-time,5001 to 10000 employees,company - public,manufacturing,$2 to $5 billion (usd)
+Thermo Fisher Scientific,3.8,"South San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Ursus,4.4,"Rancho Cordova, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Catalyst Biosciences,4.2,"South San Francisco, CA",Full-time,1 to 50 employees,company - public,biotech & pharmaceuticals,less than $1 million (usd)
+Nuna,4.0,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Capgemini,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+"LotusFlare, Inc.",4.3,"Santa Clara, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Pocket Worlds,4.6,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Levi Strauss & Co.,4.1,"San Francisco, CA",Part-time,10000+ employees,company - public,retail,$2 to $5 billion (usd)
+Goodway Group,4.5,"San Francisco, CA",Full-time,201 to 500 employees,company - private,business services,unknown / non-applicable
+Carbon Health,4.2,"San Francisco, CA",Part-time,501 to 1000 employees,company - private,health care,unknown / non-applicable
+Notion,4.8,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+JD.com,3.6,"Mountain View, CA",Full-time,5001 to 10000 employees,company - public,retail,unknown / non-applicable
+The Climate Corporation,3.5,"San Francisco, CA",Full-time,501 to 1000 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Amazon,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+UC San Francisco Academic,4.1,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Snapchat,4.2,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+Sisu,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Wish,3.4,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+Houzz,4.0,"Palo Alto, CA",Full-time,1001 to 5000 employees,company - private,information technology,unknown / non-applicable
+Next Insurance,4.7,"Palo Alto, CA",Full-time,501 to 1000 employees,company - private,insurance,unknown / non-applicable
+Workday,4.3,"Pleasanton, CA",Full-time,10000+ employees,company - public,information technology,$2 to $5 billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+eHealth,3.7,"Santa Clara, CA",Full-time,1001 to 5000 employees,company - public,insurance,$100 to $500 million (usd)
+Levi Strauss & Co.,4.1,"San Francisco, CA",Part-time,10000+ employees,company - public,retail,$2 to $5 billion (usd)
+Roche,4.3,"South San Francisco, CA",Full-time,5001 to 10000 employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Amazon,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Wells Fargo,3.6,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+Ursus,4.4,"Fremont, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+CVS Health,3.1,"San Francisco, CA",Full-time,10000+ employees,company - public,health care,$10+ billion (usd)
+10x Genomics,4.1,"Pleasanton, CA",Full-time,501 to 1000 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+Accenture,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,business services,$10+ billion (usd)
+California State University,4.3,"San Francisco, CA",Full-time,201 to 500 employees,college / university,education,$1 to $5 million (usd)
+Exponent,3.6,"Menlo Park, CA",Full-time,1001 to 5000 employees,company - public,business services,$100 to $500 million (usd)
+Kodiak Robotics,4.5,"Mountain View, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Oxford Global Resources,3.6,"San Jose, CA",Full-time,501 to 1000 employees,subsidiary or business segment,business services,$100 to $500 million (usd)
+First Republic Bank,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,finance,$10+ billion (usd)
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+Levi Strauss & Co.,4.1,"San Francisco, CA",Part-time,10000+ employees,company - public,retail,$2 to $5 billion (usd)
+Udemy,4.7,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,education,unknown / non-applicable
+Samsung Electronics America,3.5,"Mountain View, CA",Full-time,1001 to 5000 employees,subsidiary or business segment,information technology,$10+ billion (usd)
+AT&T,3.7,"San Ramon, CA",Full-time,10000+ employees,company - public,telecommunications,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+"Guidewire Software, Inc.",4.4,"San Mateo, CA",Full-time,1001 to 5000 employees,company - public,information technology,$500 million to $1 billion (usd)
+NVIDIA,4.7,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+First Republic Bank,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,finance,$10+ billion (usd)
+ScaleMonk,4.1,"Palo Alto, CA",Full-time,1 to 50 employees,company - private,information technology,$100 to $500 million (usd)
+Collective Health,3.8,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+University of California Santa Cruz,4.1,"Scotts Valley, CA",Full-time,1001 to 5000 employees,college / university,education,$100 to $500 million (usd)
+Goodway Group,4.5,"San Francisco, CA",Full-time,201 to 500 employees,company - private,business services,unknown / non-applicable
+NVIDIA,4.7,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Wild Type,5.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,agriculture & forestry,unknown / non-applicable
+Surya Systems,4.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Lucid Motors,4.1,"Newark, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+Squadex,3.0,"Palo Alto, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Kuaishou Technology,4.1,"Palo Alto, CA",Full-time,5001 to 10000 employees,company - private,information technology,unknown / non-applicable
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Sentient Energy,3.9,"Santa Clara, CA",Full-time,10000+ employees,company - private,"oil, gas, energy & utilities",$10+ billion (usd)
+Stitch Fix,3.7,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,retail,$500 million to $1 billion (usd)
+Akoya Biosciences,4.0,"Menlo Park, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+Kaiser Permanente,4.0,"Oakland, CA",Full-time,10000+ employees,nonprofit organization,health care,$10+ billion (usd)
+CPP Investments,3.7,"San Francisco, CA",Full-time,1001 to 5000 employees,self-employed,finance,$10+ billion (usd)
+Discord,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,$1 to $5 million (usd)
+Innoplexus,3.9,"San Francisco, CA",Full-time,201 to 500 employees,company - private,business services,$1 to $5 million (usd)
+Afterpay Touch,3.7,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,information technology,$5 to $10 billion (usd)
+BlackRock,4.1,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+Spin,4.3,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+DocuSign,4.6,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Stanford University,4.2,"Stanford, CA",Full-time,5001 to 10000 employees,college / university,education,unknown / non-applicable
+Kaiser Permanente,4.0,"Pleasanton, CA",Full-time,10000+ employees,nonprofit organization,health care,$10+ billion (usd)
+Amazon,3.8,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Plus,5.0,"Cupertino, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+Google,4.5,"Redwood City, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Lucid Motors,4.1,"Newark, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+Pinterest,4.2,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,$100 to $500 million (usd)
+Lucid Motors,4.1,"Newark, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+CA-One Tech Cloud Inc,5.0,"Mountain View, CA",Full-time,51 to 200 employees,company - private,information technology,$10 to $25 million (usd)
+Johnson Controls,3.5,"San Jose, CA",Full-time,10000+ employees,company - public,manufacturing,$10+ billion (usd)
+Palo Alto Networks,3.9,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$2 to $5 billion (usd)
+Roche,4.3,"Santa Clara, CA",Full-time,5001 to 10000 employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Blue River Technology,4.5,"Sunnyvale, CA",Full-time,51 to 200 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Walmart,3.4,"San Bruno, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Atlassian,4.6,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,unknown / non-applicable
+Health at Scale Corporation,4.1,"San Jose, CA",Full-time,1 to 50 employees,company - public,information technology,unknown / non-applicable
+Wells Fargo,3.6,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+Cisco Systems,4.3,"San Francisco, CA",Full-time,10000+ employees,company - private,information technology,$10+ billion (usd)
+Google,4.5,"Redwood City, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+PG&E Corporation,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,"oil, gas, energy & utilities",$10+ billion (usd)
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+PicnicHealth,4.7,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+"Del Monte Foods, Inc.",3.4,"Walnut Creek, CA",Full-time,1001 to 5000 employees,subsidiary or business segment,manufacturing,$1 to $2 billion (usd)
+Abl Schools,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,business services,unknown / non-applicable
+BlackRock,4.1,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+KPMG,3.9,"San Francisco, CA",Full-time,10000+ employees,company - private,business services,$1 to $2 billion (usd)
+"Grammarly, Inc.",5.0,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+NGUSoft,4.4,"Fremont, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Udemy,4.7,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,education,unknown / non-applicable
+Kaiser Permanente,4.0,"Oakland, CA",Full-time,10000+ employees,nonprofit organization,health care,$10+ billion (usd)
+Epic,4.7,"Redwood City, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Lucid Motors,4.1,"Newark, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+Microsoft,4.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+Intel,4.1,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Lawrence Livermore National Laboratory,4.6,"Livermore, CA",Full-time,5001 to 10000 employees,government,government,$1 to $2 billion (usd)
+CCRM,3.8,"San Francisco, CA",Full-time,1 to 50 employees,self-employed,health care,less than $1 million (usd)
+On-Board Companies,3.4,"San Jose, CA",Contract,1001 to 5000 employees,company - private,business services,$25 to $50 million (usd)
+Chime,4.4,"San Francisco, CA",Full-time,201 to 500 employees,company - private,finance,unknown / non-applicable
+Next Insurance,4.7,"Palo Alto, CA",Full-time,501 to 1000 employees,company - private,insurance,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+"Personalis, Inc",3.8,"Menlo Park, CA",Full-time,201 to 500 employees,company - public,biotech & pharmaceuticals,$25 to $50 million (usd)
+PicnicHealth,4.7,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+"Raybeam, Inc.",4.8,"Mountain View, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+Kodiak Robotics,4.5,"Mountain View, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Kodiak Robotics,4.5,"Mountain View, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Lyra Health,4.8,"Burlingame, CA",Full-time,201 to 500 employees,company - private,health care,$100 to $500 million (usd)
+New Relic,3.9,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,$100 to $500 million (usd)
+McAfee,3.6,"San Jose, CA",Full-time,5001 to 10000 employees,company - public,information technology,$10+ billion (usd)
+Point,4.9,"San Francisco, CA",Full-time,51 to 200 employees,company - private,real estate,unknown / non-applicable
+Facebook,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Varo,3.7,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+Vungle,4.0,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,$500 million to $1 billion (usd)
+Second Genome,4.7,"Brisbane, CA",Full-time,51 to 200 employees,company - private,biotech & pharmaceuticals,$5 to $10 million (usd)
+Ursus,4.4,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Health at Scale Corporation,4.1,"San Jose, CA",Full-time,1 to 50 employees,company - public,information technology,unknown / non-applicable
+Ryder System,3.5,"San Francisco, CA",Full-time,10000+ employees,company - public,transportation & logistics,$5 to $10 billion (usd)
+Exponent,3.8,"Menlo Park, CA",Full-time,1001 to 5000 employees,company - public,business services,$100 to $500 million (usd)
+Amazon,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+CircleCI,3.8,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+SpanIdea,3.8,"Milpitas, CA",Full-time,501 to 1000 employees,company - private,information technology,$10 to $25 million (usd)
+Faire,4.7,"San Francisco, CA",Full-time,201 to 500 employees,company - private,business services,unknown / non-applicable
+Tubi,4.2,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Alten,3.2,"San Francisco, CA",Full-time,10000+ employees,company - private,business services,$2 to $5 billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+PayPal,4.1,"San Jose, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Bolt,4.6,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+"Bio-Rad Laboratories, Inc.",3.5,"Hercules, CA",Full-time,5001 to 10000 employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Adobe,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Wealthfront,4.5,"Palo Alto, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+Xerox,3.3,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Charles River Laboratories,3.5,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Chime,4.5,"San Francisco, CA",Full-time,201 to 500 employees,company - private,finance,unknown / non-applicable
+Williams Sonoma,3.1,"San Francisco, CA",Full-time,10000+ employees,company - public,retail,$5 to $10 billion (usd)
+JD.com,3.6,"Mountain View, CA",Full-time,5001 to 10000 employees,company - public,retail,unknown / non-applicable
+GSN Games,3.3,"San Francisco, CA",Contract,201 to 500 employees,company - private,media,unknown / non-applicable
+infolob,4.3,"Berkeley, CA",Full-time,51 to 200 employees,company - private,information technology,$10 to $25 million (usd)
+Workday,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$2 to $5 billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Metromile,4.3,"San Francisco, CA",Full-time,201 to 500 employees,company - public,insurance,unknown / non-applicable
+SymphonyAI,4.3,"Palo Alto, CA",Full-time,201 to 500 employees,company - private,finance,unknown / non-applicable
+Chan Zuckerberg Initiative,4.0,"Redwood City, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Wish,3.4,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+Edgesource Corporation,3.9,"Mountain View, CA",Full-time,51 to 200 employees,company - public,information technology,$10 to $25 million (usd)
+Vectra,2.8,"San Jose, CA",Full-time,51 to 200 employees,company - private,accounting & legal,$50 to $100 million (usd)
+Twitch,3.9,"San Francisco, CA",Full-time,1001 to 5000 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Opendoor,3.8,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,real estate,$5 to $10 billion (usd)
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+"NephroSant, Inc.",4.1,"South San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+CitiusTech,3.8,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,information technology,$100 to $500 million (usd)
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Upstart,4.4,"San Mateo, CA",Full-time,201 to 500 employees,company - public,finance,unknown / non-applicable
+Qualys,3.6,"Foster City, CA",Full-time,501 to 1000 employees,company - public,information technology,$100 to $500 million (usd)
+Ursus,4.4,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Facebook,4.3,"Fremont, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Lyra Health,4.6,"Burlingame, CA",Full-time,201 to 500 employees,company - private,health care,$100 to $500 million (usd)
+Bayer,4.1,"Berkeley, CA",Full-time,10000+ employees,company - private,biotech & pharmaceuticals,$10+ billion (usd)
+Granular,3.5,"San Francisco, CA",Full-time,201 to 500 employees,company - public,information technology,unknown / non-applicable
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Ursus,4.4,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+DoorDash,4.0,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+AppZen,3.9,"San Jose, CA",Full-time,51 to 200 employees,company - private,finance,$1 to $5 million (usd)
+Pixelberry Studios,4.5,"Mountain View, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+tunein,4.4,"San Francisco, CA",Full-time,51 to 200 employees,company - private,media,unknown / non-applicable
+SADA,4.8,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,$100 to $500 million (usd)
+Wealthfront,4.5,"Palo Alto, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+Moveworks,4.8,"Mountain View, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Adobe,4.4,"San Jose, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Carta,4.0,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,finance,unknown / non-applicable
+Komodo Health,4.5,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Penumbra US,3.9,"Alameda, CA",Full-time,1001 to 5000 employees,company - public,health care,$100 to $500 million (usd)
+Afresh,5.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,retail,unknown / non-applicable
+Samsung Electronics America,3.5,"Mountain View, CA",Full-time,1001 to 5000 employees,subsidiary or business segment,information technology,$10+ billion (usd)
+Lucid Motors,4.1,"Newark, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+StubHub,3.4,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,"arts, entertainment & recreation",$1 to $2 billion (usd)
+Akoya Biosciences,4.0,"Menlo Park, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+Applied Materials Inc.,4.0,"Santa Clara, CA",Full-time,10000+ employees,company - public,manufacturing,$10+ billion (usd)
+Alexa Internet,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+SoFi,3.6,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,finance,unknown / non-applicable
+Wish,3.4,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+Google,4.5,"Mountain View, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+CitiusTech,3.8,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,information technology,$100 to $500 million (usd)
+"VIZIO, Inc.",4.1,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,information technology,$2 to $5 billion (usd)
+Amazon,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Food Management Search,4.1,"Oakland, CA",Full-time,1 to 50 employees,company - private,business services,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Grove Collaborative,3.4,"San Francisco, CA",Full-time,201 to 500 employees,company - private,retail,unknown / non-applicable
+Energy Solutions,3.7,"Oakland, CA",Full-time,51 to 200 employees,company - private,"oil, gas, energy & utilities",$10 to $25 million (usd)
+kover,4.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Snapchat,4.1,"Mountain View, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+PicnicHealth,4.7,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Minaris Regenerative Medicine,3.1,"Mountain View, CA",Full-time,201 to 500 employees,subsidiary or business segment,biotech & pharmaceuticals,$50 to $100 million (usd)
+Uber,4.0,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Palo Alto Networks,3.9,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$2 to $5 billion (usd)
+Lucid Motors,4.1,"Newark, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+California State University,4.3,"San Francisco, CA",Full-time,201 to 500 employees,college / university,education,$1 to $5 million (usd)
+Stitch Fix,3.7,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,retail,$500 million to $1 billion (usd)
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Wish,3.3,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Komodo Health,4.4,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Niantic,3.6,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,media,unknown / non-applicable
+Amazon,3.8,"East Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+"FibroGen, Inc.",3.7,"San Francisco, CA",Full-time,201 to 500 employees,company - public,biotech & pharmaceuticals,$100 to $500 million (usd)
+Sutro Biopharma,4.1,"San Carlos, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+Adobe,4.4,"San Jose, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Amazon,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Amazon,3.8,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Plum Lending,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,finance,unknown / non-applicable
+23andMe,4.1,"Sunnyvale, CA",Full-time,501 to 1000 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Lawrence Livermore National Laboratory,4.6,"Livermore, CA",Full-time,5001 to 10000 employees,government,government,$1 to $2 billion (usd)
+AppZen,3.9,"San Jose, CA",Full-time,51 to 200 employees,company - private,finance,$1 to $5 million (usd)
+DoorDash,3.9,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+Robinhood,4.3,"Menlo Park, CA",Full-time,501 to 1000 employees,company - private,finance,unknown / non-applicable
+Equinix,4.4,"Sunnyvale, CA",Internship,5001 to 10000 employees,company - public,information technology,$2 to $5 billion (usd)
+KPMG,3.9,"San Francisco, CA",Full-time,10000+ employees,company - private,business services,$1 to $2 billion (usd)
+SoFi,3.6,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,finance,unknown / non-applicable
+PG&E Corporation,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,"oil, gas, energy & utilities",$10+ billion (usd)
+Punchh,4.1,"San Mateo, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+SiriusXM,3.8,"Oakland, CA",Full-time,1001 to 5000 employees,company - public,media,$2 to $5 billion (usd)
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+Indeed,4.3,"San Francisco, CA",Full-time,10000+ employees,company - private,information technology,$2 to $5 billion (usd)
+Coherus BioSciences,4.4,"Redwood City, CA",Full-time,201 to 500 employees,company - public,biotech & pharmaceuticals,$100 to $500 million (usd)
+The Climate Corporation,3.6,"San Francisco, CA",Full-time,501 to 1000 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Kuaishou Technology,4.1,"Palo Alto, CA",Full-time,5001 to 10000 employees,company - private,information technology,unknown / non-applicable
+Indeed,4.3,"San Francisco, CA",Full-time,10000+ employees,company - private,information technology,$2 to $5 billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Square,4.3,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+CVS Health,3.1,"San Francisco, CA",Full-time,10000+ employees,company - public,health care,$10+ billion (usd)
+Grid Dynamics,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,information technology,$50 to $100 million (usd)
+Humanyze,3.5,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Bolt,4.5,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Sisu,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Facebook,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Facebook,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+UC San Francisco Academic,4.2,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Amazon,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Equinix,4.4,"Sunnyvale, CA",Internship,5001 to 10000 employees,company - public,information technology,$2 to $5 billion (usd)
+Plenty,3.7,"South San Francisco, CA",Full-time,51 to 200 employees,company - private,retail,$5 to $10 million (usd)
+Oak Valley Hospital District,3.3,"Oakdale, CA",Part-time,201 to 500 employees,hospital,health care,$50 to $100 million (usd)
+Google,4.5,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Indeed,4.3,"San Francisco, CA",Full-time,10000+ employees,company - private,information technology,$2 to $5 billion (usd)
+Visual Concepts,4.2,"Novato, CA",Full-time,51 to 200 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Cuberg,4.7,"Emeryville, CA",Full-time,1 to 50 employees,company - private,"oil, gas, energy & utilities",unknown / non-applicable
+Square,4.3,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+NeuroTrainer,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Databricks,4.8,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,information technology,unknown / non-applicable
+Extend,4.6,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Fluence,2.5,"San Francisco, CA",Full-time,201 to 500 employees,company - private,"oil, gas, energy & utilities",$100 to $500 million (usd)
+"Del Monte Foods, Inc.",3.4,"Walnut Creek, CA",Full-time,1001 to 5000 employees,subsidiary or business segment,manufacturing,$1 to $2 billion (usd)
+Tailored Management,4.4,"South San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,$50 to $100 million (usd)
+Cloudflare,4.1,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,information technology,unknown / non-applicable
+Adobe,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Cisco Systems,4.3,"San Jose, CA",Full-time,10000+ employees,company - private,information technology,$10+ billion (usd)
+Faire,4.7,"San Francisco, CA",Full-time,201 to 500 employees,company - private,business services,unknown / non-applicable
+BOLD,4.1,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Wyzant,4.1,"Palo Alto, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Charles River Laboratories,3.5,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Global Inc,3.8,"Dublin, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Mirabilis Design,4.7,"Sunnyvale, CA",Full-time,1 to 50 employees,company - private,retail,$1 to $5 million (usd)
+Carnegie Institution,4.3,"Stanford, CA",Full-time,501 to 1000 employees,nonprofit organization,business services,unknown / non-applicable
+Rivian Automotive,4.3,"Palo Alto, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+dunnhumby,4.1,"West Sacramento, CA",Full-time,1001 to 5000 employees,company - private,business services,$500 million to $1 billion (usd)
+Nextdoor,4.6,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Eurofins Central Laboratory,3.3,"Foster City, CA",Full-time,10000+ employees,company - private,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Thermo Fisher Scientific,3.8,"South San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Facebook,4.3,"Fremont, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Embark Trucks,4.4,"San Francisco, CA",Full-time,51 to 200 employees,company - private,transportation & logistics,unknown / non-applicable
+Yardzen,5.0,"Sausalito, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+TikTok,3.8,"Mountain View, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Charles River Laboratories,3.5,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Change Research,3.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,business services,unknown / non-applicable
+ONX,4.3,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Verkada,4.0,"San Mateo, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Tubi,4.2,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Datatron Technologies,4.2,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Teladoc Health,4.0,"Mountain View, CA",Full-time,1001 to 5000 employees,company - public,health care,$100 to $500 million (usd)
+eBay Inc.,4.0,"San Jose, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Square,4.3,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Goldman Sachs,4.0,"Menlo Park, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+Wish,3.3,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Collective Health,3.8,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+"Personalis, Inc",3.8,"Menlo Park, CA",Full-time,201 to 500 employees,company - public,biotech & pharmaceuticals,$25 to $50 million (usd)
+CircleCI,3.7,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Datatron Technologies,4.2,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+California State University,4.3,"San Jose, CA",Part-time,201 to 500 employees,college / university,education,$1 to $5 million (usd)
+Amazon,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Uber,4.0,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Tapjoy,3.6,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,$10 to $25 million (usd)
+OPPO US Research Center,4.5,"Palo Alto, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+NVIDIA,4.7,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Synapse Financial Technologies Inc,3.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+SKT Lab,4.1,"Santa Clara, CA",Full-time,1 to 50 employees,company - public,information technology,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Food Management Search,4.1,"Oakland, CA",Full-time,1 to 50 employees,company - private,business services,unknown / non-applicable
+PicnicHealth,4.7,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+GSK,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Wealthfront,4.5,"Palo Alto, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+JD.com,3.6,"Mountain View, CA",Full-time,5001 to 10000 employees,company - public,retail,unknown / non-applicable
+Centrify,3.6,"Santa Clara, CA",Full-time,201 to 500 employees,company - private,information technology,$100 to $500 million (usd)
+ALSTEM,3.7,"Richmond, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,less than $1 million (usd)
+Cisco Systems,4.3,"San Francisco, CA",Full-time,10000+ employees,company - private,information technology,$10+ billion (usd)
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Workday,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$2 to $5 billion (usd)
+CPP Investments,3.6,"San Francisco, CA",Full-time,1001 to 5000 employees,self-employed,finance,$10+ billion (usd)
+Carnegie Institution,4.3,"Stanford, CA",Full-time,501 to 1000 employees,nonprofit organization,business services,unknown / non-applicable
+Kuaishou Technology,4.1,"Palo Alto, CA",Full-time,5001 to 10000 employees,company - private,information technology,unknown / non-applicable
+Equinix,4.4,"Sunnyvale, CA",Internship,5001 to 10000 employees,company - public,information technology,$2 to $5 billion (usd)
+Squadex,3.0,"Palo Alto, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+"CytomX Therapeutics, Inc.",3.4,"South San Francisco, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+eHealth,3.7,"Santa Clara, CA",Full-time,1001 to 5000 employees,company - public,insurance,$100 to $500 million (usd)
+PG&E Corporation,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,"oil, gas, energy & utilities",$10+ billion (usd)
+University of California San Francisco,4.1,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Houzz,4.0,"Palo Alto, CA",Full-time,1001 to 5000 employees,company - private,information technology,unknown / non-applicable
+Square,4.3,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Qualys,3.6,"Foster City, CA",Full-time,501 to 1000 employees,company - public,information technology,$100 to $500 million (usd)
+Wish,3.4,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+"WeDriveU, Inc.",3.6,"Burlingame, CA",Full-time,1001 to 5000 employees,company - private,transportation & logistics,unknown / non-applicable
+Facebook,4.3,"Fremont, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Facebook,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Extend,4.6,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Gilead Sciences,3.8,"Foster City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+JD.com,3.6,"Mountain View, CA",Full-time,5001 to 10000 employees,company - public,retail,unknown / non-applicable
+Pinterest,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,$100 to $500 million (usd)
+Diffbot,4.6,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Aurora Innovation,4.0,"Mountain View, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Picarro,3.0,"Santa Clara, CA",Full-time,1 to 50 employees,company - private,manufacturing,$25 to $50 million (usd)
+Facebook,4.3,"Fremont, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+MadKudu,5.0,"Mountain View, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Varo,3.7,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+DTEX Systems,3.6,"San Jose, CA",Full-time,51 to 200 employees,company - private,information technology,$5 to $10 million (usd)
+Webhelp Americas,3.2,"San Jose, CA",Full-time,10000+ employees,company - private,business services,$500 million to $1 billion (usd)
+Anthem,3.6,"Palo Alto, CA",Full-time,10000+ employees,company - public,insurance,$10+ billion (usd)
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Faire,4.7,"San Francisco, CA",Full-time,201 to 500 employees,company - private,business services,unknown / non-applicable
+RAPP,3.6,"San Francisco, CA",Full-time,501 to 1000 employees,subsidiary or business segment,business services,unknown / non-applicable
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+BEPC Inc,3.7,"San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,$10 to $25 million (usd)
+TikTok,3.8,"Mountain View, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+f5,4.1,"Santa Clara, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Big Fish Games,3.2,"Oakland, CA",Full-time,501 to 1000 employees,subsidiary or business segment,media,$50 to $100 million (usd)
+Lawrence Livermore National Laboratory,4.6,"Livermore, CA",Full-time,5001 to 10000 employees,government,government,$1 to $2 billion (usd)
+DNA Script,5.0,"San Francisco, CA",Full-time,51 to 200 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Stitch Fix,3.7,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,retail,$500 million to $1 billion (usd)
+MarinHealth Medical Center,3.4,"Greenbrae, CA",Full-time,1001 to 5000 employees,hospital,health care,$100 to $500 million (usd)
+CircleCI,3.8,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+JD.com,3.6,"Mountain View, CA",Full-time,5001 to 10000 employees,company - public,retail,unknown / non-applicable
+GSN Games,3.3,"San Francisco, CA",Contract,201 to 500 employees,company - private,media,unknown / non-applicable
+Capgemini,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Plaid,4.6,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Spin,4.3,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Cadence Design Systems,4.4,"San Jose, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Lyra Health,4.8,"Burlingame, CA",Full-time,201 to 500 employees,company - private,health care,$100 to $500 million (usd)
+MATRIX Resources,4.3,"San Francisco, CA",Full-time,201 to 500 employees,company - private,business services,$100 to $500 million (usd)
+Oportun. Inc,4.2,"San Carlos, CA",Full-time,1001 to 5000 employees,company - public,finance,unknown / non-applicable
+DNA Script,5.0,"San Francisco, CA",Full-time,51 to 200 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Oak Valley Hospital District,3.3,"Oakdale, CA",Full-time,201 to 500 employees,hospital,health care,$50 to $100 million (usd)
+Stanford University,4.2,"Stanford, CA",Full-time,5001 to 10000 employees,college / university,education,unknown / non-applicable
+AlignTech,4.4,"San Jose, CA",Full-time,10000+ employees,company - public,manufacturing,$1 to $2 billion (usd)
+"WeDriveU, Inc.",3.6,"Burlingame, CA",Full-time,1001 to 5000 employees,company - private,transportation & logistics,unknown / non-applicable
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+First Republic Bank,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,finance,$10+ billion (usd)
+Verb Surgical,3.5,"Mountain View, CA",Full-time,201 to 500 employees,company - private,health care,unknown / non-applicable
+Tesla,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,manufacturing,$2 to $5 billion (usd)
+Marqeta,4.5,"Oakland, CA",Full-time,501 to 1000 employees,company - private,finance,unknown / non-applicable
+TEKPLAY SYSTEMS,3.6,"San Jose, CA",Full-time,501 to 1000 employees,company - private,business services,unknown / non-applicable
+"GRAIL, Inc.",3.4,"Menlo Park, CA",Full-time,201 to 500 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Confluent,4.5,"Mountain View, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Splunk,4.2,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Bay Area Community Health,3.0,"Fremont, CA",Full-time,501 to 1000 employees,nonprofit organization,health care,unknown / non-applicable
+"Nkarta, Inc.",5.0,"South San Francisco, CA",Full-time,1 to 50 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+OPPO US Research Center,4.5,"Palo Alto, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+Thermo Fisher Scientific,3.8,"South San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Slack,4.7,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+3T Biosciences,4.1,"South San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+DNA Script,5.0,"San Francisco, CA",Full-time,51 to 200 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Embark Trucks,4.4,"San Francisco, CA",Full-time,51 to 200 employees,company - private,transportation & logistics,unknown / non-applicable
+Nuro,4.2,"Mountain View, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+"Bio-Rad Laboratories, Inc.",3.5,"Hercules, CA",Full-time,5001 to 10000 employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Roblox,4.4,"San Mateo, CA",Full-time,501 to 1000 employees,company - public,information technology,unknown / non-applicable
+GSK,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+CaaStle,3.5,"Mountain View, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Heluna Health,3.4,"Sacramento, CA",Full-time,1001 to 5000 employees,nonprofit organization,non-profit,$50 to $100 million (usd)
+Kaiser Permanente,4.0,"Oakland, CA",Full-time,10000+ employees,nonprofit organization,health care,$10+ billion (usd)
+Hearth,2.9,"San Francisco, CA",Full-time,1 to 50 employees,company - public,"construction, repair & maintenance",less than $1 million (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Square,4.3,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Health at Scale Corporation,4.1,"San Jose, CA",Full-time,1 to 50 employees,company - public,information technology,unknown / non-applicable
+Moveworks.ai,4.8,"Mountain View, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Square,4.3,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Plaid,4.6,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Pinterest,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,$100 to $500 million (usd)
+Xerox,3.2,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Cree Inc,3.4,"Morgan Hill, CA",Full-time,5001 to 10000 employees,company - public,manufacturing,$1 to $2 billion (usd)
+Moody's Corporation,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$2 to $5 billion (usd)
+"Amino, Inc.",4.5,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Aquabyte,4.2,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+JD.com,3.6,"Mountain View, CA",Full-time,5001 to 10000 employees,company - public,retail,unknown / non-applicable
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Innoplexus,3.9,"San Francisco, CA",Full-time,201 to 500 employees,company - private,business services,$1 to $5 million (usd)
+VMware,4.3,"San Francisco, CA",Part-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Uber,4.0,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Fanatics,3.9,"San Mateo, CA",Full-time,5001 to 10000 employees,company - private,information technology,$1 to $2 billion (usd)
+Lucid Motors,4.1,"Newark, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+Robinhood,4.3,"Menlo Park, CA",Full-time,501 to 1000 employees,company - private,finance,unknown / non-applicable
+Oak Valley Hospital District,3.3,"Oakdale, CA",Full-time,201 to 500 employees,hospital,health care,$50 to $100 million (usd)
+Rivian Automotive,4.3,"Palo Alto, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+NotCo,3.6,"San Francisco, CA",Full-time,51 to 200 employees,company - private,biotech & pharmaceuticals,$25 to $50 million (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+County of San Mateo,4.0,"San Mateo, CA",Full-time,5001 to 10000 employees,government,government,$1 to $5 million (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Pendulum.co,4.3,"San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Confluent,4.5,"Mountain View, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Aquabyte,3.9,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Point,4.9,"San Francisco, CA",Full-time,51 to 200 employees,company - private,real estate,unknown / non-applicable
+UnifyID,4.2,"Redwood City, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Agama Solutions,3.7,"San Francisco, CA",Full-time,51 to 200 employees,contract,information technology,$10 to $25 million (usd)
+BlackRock,4.1,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+SupportLogic,5.0,"Santa Clara, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Grabango,3.7,"Berkeley, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+SpanIdea,3.8,"Milpitas, CA",Full-time,501 to 1000 employees,company - private,information technology,$10 to $25 million (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+DoorDash,3.9,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+Accenture,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,business services,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Sentient Energy,3.9,"Santa Clara, CA",Full-time,10000+ employees,company - private,"oil, gas, energy & utilities",$10+ billion (usd)
+Baidu USA,3.9,"Sunnyvale, CA",Full-time,201 to 500 employees,company - public,information technology,$50 to $100 million (usd)
+Workday,4.3,"Pleasanton, CA",Full-time,10000+ employees,company - public,information technology,$2 to $5 billion (usd)
+Unlearn.AI,5.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Sisu,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Woodruff Sawyer,4.0,"San Francisco, CA",Full-time,201 to 500 employees,company - private,insurance,$100 to $500 million (usd)
+Verb Surgical,3.5,"Mountain View, CA",Full-time,201 to 500 employees,company - private,health care,unknown / non-applicable
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Varo,3.7,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+Verb Surgical,3.5,"Mountain View, CA",Full-time,201 to 500 employees,company - private,health care,unknown / non-applicable
+eBay Inc.,4.0,"San Jose, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Amazon,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Microsoft,4.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Splunk,4.1,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Heluna Health,3.4,"San Francisco, CA",Full-time,1001 to 5000 employees,nonprofit organization,non-profit,$50 to $100 million (usd)
+BlackRock,4.1,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+NVIDIA,4.7,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Guidehouse,3.8,"San Francisco, CA",Full-time,5001 to 10000 employees,company - private,business services,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Workday,4.3,"Pleasanton, CA",Full-time,10000+ employees,company - public,information technology,$2 to $5 billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Houzz,4.0,"Palo Alto, CA",Full-time,1001 to 5000 employees,company - private,information technology,unknown / non-applicable
+Nuro,4.2,"Mountain View, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Pinterest,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,$100 to $500 million (usd)
+SRA OSS,3.5,"San Jose, CA",Full-time,51 to 200 employees,company - private,information technology,$10 to $25 million (usd)
+Parker Institute for Cancer Immunotherapy,4.0,"San Francisco, CA",Full-time,51 to 200 employees,nonprofit organization,non-profit,unknown / non-applicable
+Netflix,4.1,"Los Gatos, CA",Full-time,5001 to 10000 employees,company - public,information technology,$5 to $10 billion (usd)
+MATRIX Resources,4.3,"San Francisco, CA",Full-time,201 to 500 employees,company - private,business services,$100 to $500 million (usd)
+Couchbase,4.8,"Santa Clara, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+LGC Limited,3.6,"Petaluma, CA",Full-time,1001 to 5000 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+NVIDIA,4.7,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Blue River Technology,4.5,"Sunnyvale, CA",Full-time,51 to 200 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Vectra,2.8,"San Jose, CA",Full-time,51 to 200 employees,company - private,accounting & legal,$50 to $100 million (usd)
+Adventist Health,3.6,"Clearlake, CA",Full-time,10000+ employees,nonprofit organization,health care,unknown / non-applicable
+Ease,3.4,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Adobe,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Procyon technostructure,4.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,accounting & legal,unknown / non-applicable
+First Republic Bank,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,finance,$10+ billion (usd)
+TikTok,3.8,"Mountain View, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Teladoc Health,4.0,"Mountain View, CA",Full-time,1001 to 5000 employees,company - public,health care,$100 to $500 million (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+McDonald's Corporate,3.5,"Mountain View, CA",Full-time,10000+ employees,company - public,"restaurants, bars & food services",$10+ billion (usd)
+JD.com,3.6,"Mountain View, CA",Full-time,5001 to 10000 employees,company - public,retail,unknown / non-applicable
+Bolt,4.6,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+CCRM,3.8,"San Francisco, CA",Full-time,1 to 50 employees,self-employed,health care,less than $1 million (usd)
+Sony,3.1,"San Jose, CA",Full-time,1001 to 5000 employees,subsidiary or business segment,manufacturing,$100 to $500 million (usd)
+Nova Measuring Instruments,3.8,"Fremont, CA",Full-time,501 to 1000 employees,company - public,manufacturing,$100 to $500 million (usd)
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+ACL Digital,3.6,"Menlo Park, CA",Full-time,1001 to 5000 employees,company - private,information technology,unknown / non-applicable
+Pendulum.co,4.3,"San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+6sense,4.9,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Square,4.3,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Blue River Technology,4.5,"Sunnyvale, CA",Full-time,51 to 200 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Codexis,3.2,"Redwood City, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,$25 to $50 million (usd)
+Impossible Foods,4.3,"Redwood City, CA",Full-time,501 to 1000 employees,company - private,manufacturing,unknown / non-applicable
+Aon Corporation,3.8,"San Jose, CA",Part-time,10000+ employees,company - public,insurance,$10+ billion (usd)
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Charles River Laboratories,3.5,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Picarro,3.0,"Santa Clara, CA",Full-time,1 to 50 employees,company - private,manufacturing,$25 to $50 million (usd)
+Lucid Motors,4.1,"Newark, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+TechTrueUP,3.6,"South San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+Hinge Health,4.6,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,health care,$50 to $100 million (usd)
+Benchling,5.0,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,$50 to $100 million (usd)
+Carta,4.0,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,finance,unknown / non-applicable
+Galvanize Inc.,4.5,"San Francisco, CA",Part-time,201 to 500 employees,company - private,education,unknown / non-applicable
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+"Amino, Inc.",4.5,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Tinder,3.7,"San Francisco, CA",Full-time,201 to 500 employees,company - public,information technology,unknown / non-applicable
+Agama Solutions,3.7,"San Francisco, CA",Full-time,51 to 200 employees,contract,information technology,$10 to $25 million (usd)
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Lyra Health,4.6,"Burlingame, CA",Full-time,201 to 500 employees,company - private,health care,$100 to $500 million (usd)
+Varo,3.7,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+Feedzai,4.1,"San Mateo, CA",Full-time,201 to 500 employees,company - private,information technology,$50 to $100 million (usd)
+Confluent,4.6,"Mountain View, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Freenome Holdings,4.9,"South San Francisco, CA",Full-time,51 to 200 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Varo,3.7,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+TargetCW,4.4,"San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,$100 to $500 million (usd)
+Udemy,4.7,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,education,unknown / non-applicable
+Xerox,3.2,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Innoplexus,3.9,"San Francisco, CA",Full-time,201 to 500 employees,company - private,business services,$1 to $5 million (usd)
+eBay Inc.,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Notable Labs,5.0,"Foster City, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,less than $1 million (usd)
+Slack,4.7,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+Health at Scale Corporation,4.1,"San Jose, CA",Full-time,1 to 50 employees,company - public,information technology,unknown / non-applicable
+"Grammarly, Inc.",5.0,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+StubHub,3.4,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,"arts, entertainment & recreation",$1 to $2 billion (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+6sense,4.9,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Thermo Fisher - America,3.8,"Fremont, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Sony,4.0,"San Mateo, CA",Full-time,5001 to 10000 employees,subsidiary or business segment,media,$10+ billion (usd)
+Splunk,4.2,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+APTIM,3.4,"Concord, CA",Full-time,1001 to 5000 employees,contract,"construction, repair & maintenance",unknown / non-applicable
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Facebook,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Course Hero,4.8,"Redwood City, CA",Full-time,51 to 200 employees,company - private,education,unknown / non-applicable
+"Personalis, Inc",3.8,"Menlo Park, CA",Full-time,201 to 500 employees,company - public,biotech & pharmaceuticals,$25 to $50 million (usd)
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Indeed,4.3,"San Francisco, CA",Full-time,10000+ employees,company - private,information technology,$2 to $5 billion (usd)
+Astrix Technology Group,4.2,"South San Francisco, CA",Full-time,1 to 50 employees,company - private,business services,unknown / non-applicable
+ThirdLove,3.6,"San Francisco, CA",Full-time,201 to 500 employees,company - private,retail,unknown / non-applicable
+Williams Sonoma,3.1,"San Francisco, CA",Full-time,10000+ employees,company - public,retail,$5 to $10 billion (usd)
+Galvanize,4.6,"San Francisco, CA",Part-time,201 to 500 employees,company - private,education,unknown / non-applicable
+Tubi,4.2,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Salesforce,4.5,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+JD.com,3.6,"Mountain View, CA",Full-time,5001 to 10000 employees,company - public,retail,unknown / non-applicable
+Ursus,4.4,"Rancho Cordova, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Extend,4.6,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Amazon,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+BlackRock,4.1,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+"Ordr, Inc.",4.5,"Santa Clara, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Roblox,4.4,"San Mateo, CA",Full-time,501 to 1000 employees,company - public,information technology,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+"CytomX Therapeutics, Inc.",3.4,"South San Francisco, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Juniper Networks,3.9,"Cupertino, CA",Full-time,5001 to 10000 employees,company - public,telecommunications,$2 to $5 billion (usd)
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Fremont Bank,3.0,"Livermore, CA",Full-time,501 to 1000 employees,company - private,finance,$1 to $2 billion (usd)
+ZS Associates,4.0,"San Francisco, CA",Full-time,5001 to 10000 employees,company - private,business services,unknown / non-applicable
+"Personalis, Inc",3.8,"Menlo Park, CA",Full-time,201 to 500 employees,company - public,biotech & pharmaceuticals,$25 to $50 million (usd)
+Teladoc Health,4.0,"Mountain View, CA",Full-time,1001 to 5000 employees,company - public,health care,$100 to $500 million (usd)
+Roblox,4.5,"San Mateo, CA",Full-time,501 to 1000 employees,company - public,information technology,unknown / non-applicable
+Google,4.5,"Mountain View, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Tesla,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,manufacturing,$2 to $5 billion (usd)
+"Upstart Network, Inc.",4.4,"San Mateo, CA",Full-time,201 to 500 employees,company - public,finance,unknown / non-applicable
+Adobe,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+DocuSign,4.6,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,$1 to $2 billion (usd)
+Cornershop by Uber,4.4,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,information technology,unknown / non-applicable
+"LotusFlare, Inc.",4.3,"Santa Clara, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Nuna,4.0,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+FICO,3.9,"San Jose, CA",Full-time,1001 to 5000 employees,company - public,information technology,$500 million to $1 billion (usd)
+Roche,4.3,"Santa Clara, CA",Full-time,5001 to 10000 employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Kaiser Permanente,4.0,"Oakland, CA",Full-time,10000+ employees,nonprofit organization,health care,$10+ billion (usd)
+Picarro,3.0,"Santa Clara, CA",Full-time,1 to 50 employees,company - private,manufacturing,$25 to $50 million (usd)
+Tempus Labs,3.2,"Redwood City, CA",Full-time,501 to 1000 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+23andMe,4.1,"Sunnyvale, CA",Full-time,501 to 1000 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Levi Strauss & Co.,4.1,"San Francisco, CA",Part-time,10000+ employees,company - public,retail,$2 to $5 billion (usd)
+Wish,3.3,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+UC San Francisco Academic,4.2,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Stanford University,4.2,"Stanford, CA",Full-time,5001 to 10000 employees,college / university,education,unknown / non-applicable
+First Republic Bank,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,finance,$10+ billion (usd)
+Wish,3.4,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+Capital One - US,4.1,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+Adobe,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+BlackRock,4.1,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+OPPO US Research Center,4.5,"Palo Alto, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+Rivian Automotive,4.3,"Palo Alto, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+CriticalRiver Technologies Inc.,4.6,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,$10 to $25 million (usd)
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+"LakePharma, Inc.",2.5,"Hayward, CA",Full-time,201 to 500 employees,company - private,biotech & pharmaceuticals,$25 to $50 million (usd)
+Synapse Financial Technologies Inc,3.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+Sigma Inc,4.1,"Fremont, CA",Full-time,51 to 200 employees,company - private,accounting & legal,$10 to $25 million (usd)
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Adobe,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Xoriant Corporation,4.0,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,information technology,$100 to $500 million (usd)
+Facebook,4.3,"Fremont, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Blue River Technology,4.5,"Sunnyvale, CA",Full-time,51 to 200 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+"Bio-Rad Laboratories, Inc.",3.5,"Hercules, CA",Full-time,5001 to 10000 employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Pendulum.co,4.3,"San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Thermo Fisher - America,3.8,"Fremont, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Chan Zuckerberg Biohub,3.4,"San Francisco, CA",Full-time,1 to 50 employees,nonprofit organization,non-profit,unknown / non-applicable
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+"LotusFlare, Inc.",4.3,"Santa Clara, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Kodiak Robotics,4.5,"Mountain View, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Blue River Technology,4.5,"Sunnyvale, CA",Full-time,51 to 200 employees,subsidiary or business segment,information technology,unknown / non-applicable
+DoorDash,3.9,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+Cornershop by Uber,4.4,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,information technology,unknown / non-applicable
+NVIDIA,4.7,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Shoe Palace Corporation,3.5,"Morgan Hill, CA",Full-time,1001 to 5000 employees,company - private,retail,$25 to $50 million (usd)
+Wish,3.3,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+University of California San Francisco,4.1,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+3T Biosciences,4.1,"South San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Levi Strauss & Co.,4.1,"San Francisco, CA",Part-time,10000+ employees,company - public,retail,$2 to $5 billion (usd)
+HCL Technologies,3.7,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Amazon,3.8,"East Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+McAfee,3.6,"San Jose, CA",Full-time,5001 to 10000 employees,company - public,information technology,$10+ billion (usd)
+Roblox,4.5,"San Mateo, CA",Full-time,501 to 1000 employees,company - public,information technology,unknown / non-applicable
+NCIRE,3.4,"San Francisco, CA",Full-time,201 to 500 employees,nonprofit organization,non-profit,$25 to $50 million (usd)
+UC San Francisco Academic,4.1,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Wing,2.1,"Palo Alto, CA",Full-time,51 to 200 employees,subsidiary or business segment,business services,$10 to $25 million (usd)
+"FibroGen, Inc.",3.7,"San Francisco, CA",Full-time,201 to 500 employees,company - public,biotech & pharmaceuticals,$100 to $500 million (usd)
+Teladoc Health,4.0,"Mountain View, CA",Full-time,1001 to 5000 employees,company - public,health care,$100 to $500 million (usd)
+Lawrence Livermore National Laboratory,4.6,"Livermore, CA",Full-time,5001 to 10000 employees,government,government,$1 to $2 billion (usd)
+Tiger Analytics,4.4,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,business services,$10 to $25 million (usd)
+Wells Fargo,3.6,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+Microsoft,4.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Exponent,3.6,"Menlo Park, CA",Full-time,1001 to 5000 employees,company - public,business services,$100 to $500 million (usd)
+Adobe,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Sisu,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Aspire Public Schools,3.8,"Oakland, CA",Full-time,1001 to 5000 employees,school / school district,education,$100 to $500 million (usd)
+Gap Inc.,3.7,"San Francisco, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+RAPP,3.7,"San Francisco, CA",Full-time,501 to 1000 employees,subsidiary or business segment,business services,unknown / non-applicable
+Akoya Biosciences,4.0,"Menlo Park, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+Snapchat,4.1,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+6sense,4.9,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Thermo Fisher Scientific,3.8,"South San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Roblox,4.5,"San Mateo, CA",Full-time,501 to 1000 employees,company - public,information technology,unknown / non-applicable
+"Association For Energy Affordability, Inc.",2.8,"Emeryville, CA",Full-time,51 to 200 employees,company - private,transportation & logistics,$10 to $25 million (usd)
+Blue River Technology,4.5,"Sunnyvale, CA",Full-time,51 to 200 employees,subsidiary or business segment,information technology,unknown / non-applicable
+"Personalis, Inc",3.8,"Menlo Park, CA",Full-time,201 to 500 employees,company - public,biotech & pharmaceuticals,$25 to $50 million (usd)
+Varo,3.7,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+Big Fish Games,3.3,"Oakland, CA",Full-time,501 to 1000 employees,subsidiary or business segment,media,$50 to $100 million (usd)
+Varo,3.7,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+Spartan Technologies,3.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,$5 to $10 million (usd)
+Facebook,4.3,"Fremont, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Feedzai,4.0,"San Mateo, CA",Full-time,201 to 500 employees,company - private,information technology,$50 to $100 million (usd)
+Cruise,3.6,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,information technology,unknown / non-applicable
+eHealth,3.7,"Santa Clara, CA",Full-time,1001 to 5000 employees,company - public,insurance,$100 to $500 million (usd)
+Carbon3D,3.7,"Redwood City, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+UnifyID,4.2,"Redwood City, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Metromile,4.3,"San Francisco, CA",Full-time,201 to 500 employees,company - public,insurance,unknown / non-applicable
+One Concern,3.7,"Menlo Park, CA",Full-time,51 to 200 employees,company - private,information technology,$1 to $5 million (usd)
+Facebook,4.3,"Burlingame, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+EOS,3.5,"Fremont, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Health at Scale Corporation,4.1,"San Jose, CA",Full-time,1 to 50 employees,company - public,information technology,unknown / non-applicable
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Power Integrations,3.8,"San Jose, CA",Full-time,501 to 1000 employees,company - public,manufacturing,$100 to $500 million (usd)
+Wells Fargo,3.6,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+TikTok,3.8,"Mountain View, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+First Republic Bank,4.3,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,finance,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Square,4.3,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Aquabyte,4.2,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Xerox,3.2,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+CPP Investments,3.6,"San Francisco, CA",Full-time,1001 to 5000 employees,self-employed,finance,$10+ billion (usd)
+3T Biosciences,4.1,"South San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+NVIDIA,4.7,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Blue River Technology,4.5,"Sunnyvale, CA",Full-time,51 to 200 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Pendulum.co,4.3,"San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Embark Trucks,4.4,"San Francisco, CA",Full-time,51 to 200 employees,company - private,transportation & logistics,unknown / non-applicable
+Teladoc Health,4.0,"Mountain View, CA",Full-time,1001 to 5000 employees,company - public,health care,$100 to $500 million (usd)
+Aquabyte,3.9,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Square,4.3,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+"Personalis, Inc",3.9,"Menlo Park, CA",Full-time,201 to 500 employees,company - public,biotech & pharmaceuticals,$25 to $50 million (usd)
+Facebook,4.3,"Fremont, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Synapse Financial Technologies Inc,3.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+ALSTEM,3.7,"Richmond, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,less than $1 million (usd)
+Aquabyte,4.2,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Varo,3.7,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Xerox,3.3,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Pendulum.co,4.3,"San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+University of California San Francisco,4.2,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Square,4.3,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Surya Systems,4.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Pocket Worlds,4.6,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+SoFi,3.6,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,finance,unknown / non-applicable
+Lucid Motors,4.1,"Newark, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+Osaro,4.8,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Adobe,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+KPMG,3.9,"San Francisco, CA",Full-time,10000+ employees,company - private,business services,$1 to $2 billion (usd)
+Facebook,4.3,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Parker Institute for Cancer Immunotherapy,4.0,"San Francisco, CA",Full-time,51 to 200 employees,nonprofit organization,non-profit,unknown / non-applicable
+Lucid Motors,4.1,"Newark, CA",Full-time,1001 to 5000 employees,company - private,manufacturing,unknown / non-applicable
+Twitch,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Google,4.5,"Redwood City, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Osaro,4.8,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Charles River Laboratories,3.5,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Indeed,4.3,"San Francisco, CA",Full-time,10000+ employees,company - private,information technology,$2 to $5 billion (usd)
+CitiusTech,3.8,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,information technology,$100 to $500 million (usd)
+Contus,4.2,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,$10 to $25 million (usd)
+Amazon,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+VMware,4.3,"Palo Alto, CA",Part-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+KPMG,3.9,"San Francisco, CA",Full-time,10000+ employees,company - private,business services,$1 to $2 billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Stitch Fix,3.7,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,retail,$500 million to $1 billion (usd)
+SupportLogic,5.0,"Santa Clara, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Kaiser Permanente,4.0,"Pleasanton, CA",Full-time,10000+ employees,nonprofit organization,health care,$10+ billion (usd)
+TikTok,3.8,"Mountain View, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Square,4.3,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Sisu,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+"Bio-Rad Laboratories, Inc.",3.5,"Pleasanton, CA",Full-time,5001 to 10000 employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Surya Systems,4.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Sisu,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+The Mom Project,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+Akoya Biosciences,4.0,"Menlo Park, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+ABD Insurance and Financial Services,4.7,"San Francisco, CA",Full-time,201 to 500 employees,company - private,insurance,$50 to $100 million (usd)
+Adobe,4.4,"San Jose, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+"VIZIO, Inc.",4.1,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,information technology,$2 to $5 billion (usd)
+SoFi,3.6,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,finance,unknown / non-applicable
+Intuitive,4.6,"Sunnyvale, CA",Full-time,5001 to 10000 employees,company - public,manufacturing,$2 to $5 billion (usd)
+On-Board Companies,3.4,"San Jose, CA",Contract,1001 to 5000 employees,company - private,business services,$25 to $50 million (usd)
+23andMe,4.1,"Sunnyvale, CA",Full-time,501 to 1000 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Charles River Laboratories,3.5,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Geli,3.4,"San Francisco, CA",Full-time,1 to 50 employees,company - private,"oil, gas, energy & utilities",unknown / non-applicable
+Facebook,4.3,"Burlingame, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Cisco Systems,4.3,"San Francisco, CA",Full-time,10000+ employees,company - private,information technology,$10+ billion (usd)
+PayPal,4.1,"San Jose, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Thermo Fisher Scientific,3.8,"South San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+University of California San Francisco,4.1,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Amazon,3.8,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+23andMe,4.1,"Sunnyvale, CA",Full-time,501 to 1000 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Twilio,4.4,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,$500 million to $1 billion (usd)
+"Bio-Rad Laboratories, Inc.",3.5,"Pleasanton, CA",Full-time,5001 to 10000 employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Dell Technologies,4.2,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Sisu,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Charles River Laboratories,3.5,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+BEPC Inc,3.7,"South San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,$10 to $25 million (usd)
+Pendulum.co,4.3,"San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Uber,4.0,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+NextGen America,3.7,"San Francisco, CA",Full-time,51 to 200 employees,nonprofit organization,non-profit,unknown / non-applicable
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Cisco Systems,4.3,"San Jose, CA",Full-time,10000+ employees,company - private,information technology,$10+ billion (usd)
+Afterpay Touch,3.7,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,information technology,$5 to $10 billion (usd)
+"Bio-Rad Laboratories, Inc.",3.5,"Pleasanton, CA",Full-time,5001 to 10000 employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+Nurix,4.0,"San Francisco, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+Plus,5.0,"Cupertino, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+Carta,3.9,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,finance,unknown / non-applicable
+Forethought,5.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Kodiak Robotics,4.5,"Mountain View, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Punchh,4.1,"San Mateo, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Onto Innovation,3.6,"Milpitas, CA",Full-time,1001 to 5000 employees,company - public,manufacturing,unknown / non-applicable
+ONX,4.3,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+County of Contra Costa,4.0,"Martinez, CA",Full-time,10000+ employees,government,government,$1 to $2 billion (usd)
+RELX Group,3.1,"San Jose, CA",Full-time,1001 to 5000 employees,subsidiary or business segment,business services,$1 to $2 billion (usd)
+Databricks,4.8,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,information technology,unknown / non-applicable
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Uber,4.0,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Collective Health,3.8,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Hinge Health,4.6,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,health care,$50 to $100 million (usd)
+Poshmark,4.6,"Redwood City, CA",Full-time,201 to 500 employees,company - public,information technology,$100 to $500 million (usd)
+Chan Zuckerberg Biohub,3.4,"San Francisco, CA",Full-time,1 to 50 employees,nonprofit organization,non-profit,unknown / non-applicable
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+AppZen,3.9,"San Jose, CA",Full-time,51 to 200 employees,company - private,finance,$1 to $5 million (usd)
+Stanford University,4.2,"Stanford, CA",Full-time,5001 to 10000 employees,college / university,education,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+PicnicHealth,4.7,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Genentech,4.3,"South San Francisco, CA",Full-time,10000+ employees,subsidiary or business segment,biotech & pharmaceuticals,$10+ billion (usd)
+eBay Inc.,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+DNA Script,5.0,"San Francisco, CA",Full-time,51 to 200 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Capgemini,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+AMPAC Fine Chemicals,3.1,"Rancho Cordova, CA",Full-time,501 to 1000 employees,subsidiary or business segment,biotech & pharmaceuticals,$100 to $500 million (usd)
+Stanford University,4.2,"Stanford, CA",Full-time,5001 to 10000 employees,college / university,education,unknown / non-applicable
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+"Raybeam, Inc.",4.8,"Mountain View, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+Extend,4.6,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Synapse Financial Technologies Inc,3.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,finance,unknown / non-applicable
+University of California San Francisco,4.2,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Uber,4.0,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+3T Biosciences,4.1,"South San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Ursus,4.4,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+NVIDIA,4.7,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Tesla,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,manufacturing,$2 to $5 billion (usd)
+AVANADE,4.1,"Concord, CA",Full-time,10000+ employees,company - private,information technology,$2 to $5 billion (usd)
+BISHOP WISECARVER CORPORATION,3.5,"Pittsburg, CA",Full-time,51 to 200 employees,company - private,manufacturing,$10 to $25 million (usd)
+Nurix,4.0,"San Francisco, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+Compunnel Software Group,3.8,"Cupertino, CA",Full-time,1001 to 5000 employees,company - private,information technology,$100 to $500 million (usd)
+Uber,4.0,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+NextEra Energy,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,"oil, gas, energy & utilities",$10+ billion (usd)
+Snapchat,4.2,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+UC San Francisco Academic,4.2,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Carta,4.0,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,finance,unknown / non-applicable
+FocusKPI Inc.,3.3,"Santa Clara, CA",Full-time,51 to 200 employees,company - private,business services,less than $1 million (usd)
+Verb Surgical,3.5,"Mountain View, CA",Full-time,201 to 500 employees,company - private,health care,unknown / non-applicable
+Blue Shield of California,4.4,"Oakland, CA",Full-time,5001 to 10000 employees,nonprofit organization,insurance,$10+ billion (usd)
+PG&E Corporation,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,"oil, gas, energy & utilities",$10+ billion (usd)
+BICP,5.0,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,$10 to $25 million (usd)
+Stanford University,4.2,"Stanford, CA",Full-time,5001 to 10000 employees,college / university,education,unknown / non-applicable
+Visual Concepts,4.2,"Novato, CA",Full-time,51 to 200 employees,subsidiary or business segment,information technology,unknown / non-applicable
+Bristol Myers Squibb,4.1,"Redwood City, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Arkose Labs,4.4,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+23andMe,4.1,"Sunnyvale, CA",Full-time,501 to 1000 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Course Hero,4.8,"Redwood City, CA",Full-time,51 to 200 employees,company - private,education,unknown / non-applicable
+Quantifind,4.2,"Palo Alto, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Atlassian,4.6,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,unknown / non-applicable
+Codexis,3.2,"Redwood City, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,$25 to $50 million (usd)
+Wish,3.4,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+Jobot,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,$50 to $100 million (usd)
+Databricks,4.8,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,information technology,unknown / non-applicable
+Tesla,3.8,"Fremont, CA",Full-time,10000+ employees,company - public,manufacturing,$2 to $5 billion (usd)
+Amazon,3.8,"Patterson, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Nurix,4.0,"San Francisco, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+McAfee,3.6,"San Jose, CA",Full-time,5001 to 10000 employees,company - public,information technology,$10+ billion (usd)
+Health at Scale Corporation,4.1,"San Jose, CA",Full-time,1 to 50 employees,company - public,information technology,unknown / non-applicable
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+23andMe,4.1,"Sunnyvale, CA",Full-time,501 to 1000 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Bloom Energy,3.8,"San Jose, CA",Full-time,1001 to 5000 employees,company - public,"oil, gas, energy & utilities",$100 to $500 million (usd)
+Juniper Networks,3.9,"Sunnyvale, CA",Full-time,5001 to 10000 employees,company - public,telecommunications,$2 to $5 billion (usd)
+Veeva Systems,4.1,"Pleasanton, CA",Full-time,1001 to 5000 employees,company - public,information technology,$1 to $2 billion (usd)
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+California State University,4.3,"San Francisco, CA",Full-time,201 to 500 employees,college / university,education,$1 to $5 million (usd)
+Astrix Technology Group,4.2,"South San Francisco, CA",Full-time,1 to 50 employees,company - private,business services,unknown / non-applicable
+Splunk,4.2,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Nurix,4.0,"San Francisco, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+Amazon,3.8,"Patterson, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+PayPal,4.1,"San Jose, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+McDonald's Corporate,3.5,"Mountain View, CA",Full-time,10000+ employees,company - public,"restaurants, bars & food services",$10+ billion (usd)
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Faire,4.7,"San Francisco, CA",Full-time,201 to 500 employees,company - private,business services,unknown / non-applicable
+MOLOCO,4.1,"Redwood City, CA",Full-time,51 to 200 employees,company - private,business services,$100 to $500 million (usd)
+Xerox,3.2,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+EOS,3.6,"Fremont, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Sisu,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Glu Mobile,4.2,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,information technology,$100 to $500 million (usd)
+Twist Bioscience,4.2,"South San Francisco, CA",Full-time,51 to 200 employees,company - public,biotech & pharmaceuticals,$10 to $25 million (usd)
+VMware,4.3,"Palo Alto, CA",Part-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+eBay Inc.,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Aquabyte,4.2,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,less than $1 million (usd)
+Stitch Fix,3.7,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,retail,$500 million to $1 billion (usd)
+Nuna,4.0,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,unknown / non-applicable
+Uber,4.0,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Marqeta,4.5,"Oakland, CA",Full-time,501 to 1000 employees,company - private,finance,unknown / non-applicable
+Zeta Global,3.7,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,business services,$100 to $500 million (usd)
+Blue Owl,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,insurance,unknown / non-applicable
+Facebook,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Facebook,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Adobe,4.4,"San Jose, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+DataVisor,4.5,"Mountain View, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+Amazon,3.8,"Palo Alto, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Stitch Fix,3.7,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,retail,$500 million to $1 billion (usd)
+BlackRock,4.1,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+PubNub,4.0,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,$25 to $50 million (usd)
+Afterpay Touch,3.7,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,information technology,$5 to $10 billion (usd)
+Jobot,4.8,"San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,$50 to $100 million (usd)
+Collective Health,3.8,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Ursus,4.4,"Menlo Park, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+NVIDIA,4.7,"Santa Clara, CA",Full-time,10000+ employees,company - public,information technology,$5 to $10 billion (usd)
+BlackRock,4.1,"San Francisco, CA",Full-time,10000+ employees,company - public,finance,$10+ billion (usd)
+Adventist Health,3.6,"Lodi, CA",Full-time,10000+ employees,nonprofit organization,health care,unknown / non-applicable
+Dell Technologies,4.2,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Lyft,3.9,"Palo Alto, CA",Full-time,5001 to 10000 employees,company - public,information technology,unknown / non-applicable
+Cisco Systems,4.3,"San Francisco, CA",Full-time,10000+ employees,company - private,information technology,$10+ billion (usd)
+Uber,4.0,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Wish,3.3,"San Francisco, CA",Full-time,501 to 1000 employees,company - public,retail,$1 to $2 billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Sisu,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+On-Board Companies,3.4,"San Francisco, CA",Full-time,1001 to 5000 employees,company - private,business services,$25 to $50 million (usd)
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+AutoZone,3.3,"Elk Grove, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+10x Genomics,4.1,"Pleasanton, CA",Full-time,501 to 1000 employees,company - public,biotech & pharmaceuticals,unknown / non-applicable
+Uber,4.0,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+DoorDash,3.9,"San Francisco, CA",Full-time,1001 to 5000 employees,company - public,information technology,unknown / non-applicable
+Synopsys,4.1,"Mountain View, CA",Full-time,10000+ employees,company - public,information technology,$2 to $5 billion (usd)
+"GRAIL, Inc.",3.4,"Menlo Park, CA",Full-time,201 to 500 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+HopHR,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,business services,unknown / non-applicable
+Kaiser Permanente,4.0,"Pleasanton, CA",Full-time,10000+ employees,nonprofit organization,health care,$10+ billion (usd)
+Uber,4.0,"Sunnyvale, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Sisu,4.1,"San Francisco, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Marqeta,4.5,"Oakland, CA",Full-time,501 to 1000 employees,company - private,finance,unknown / non-applicable
+Thermo Fisher - America,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$10+ billion (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Sitecore,3.7,"San Francisco, CA",Full-time,501 to 1000 employees,company - private,information technology,$50 to $100 million (usd)
+STAR Labs,3.5,"Los Gatos, CA",Contract,1 to 50 employees,company - private,business services,unknown / non-applicable
+Uniphore,4.4,"San Francisco, CA",Full-time,51 to 200 employees,company - private,information technology,$10 to $25 million (usd)
+Alexa Internet,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+FocusKPI Inc.,3.3,"Mountain View, CA",Full-time,51 to 200 employees,company - private,business services,less than $1 million (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+AutoGrid Systems,3.5,"Redwood City, CA",Full-time,51 to 200 employees,company - private,information technology,$5 to $10 million (usd)
+Facebook,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+KPMG,3.9,"San Francisco, CA",Full-time,10000+ employees,company - private,business services,$1 to $2 billion (usd)
+Workday,4.3,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$2 to $5 billion (usd)
+"Ironclad, Inc.",4.7,"San Francisco, CA",Full-time,201 to 500 employees,company - private,information technology,unknown / non-applicable
+Amazon,3.8,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+3T Biosciences,4.1,"South San Francisco, CA",Full-time,1 to 50 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+DNA Script,5.0,"San Francisco, CA",Full-time,51 to 200 employees,company - private,biotech & pharmaceuticals,unknown / non-applicable
+Charles River Laboratories,3.5,"San Francisco, CA",Full-time,10000+ employees,company - public,biotech & pharmaceuticals,$2 to $5 billion (usd)
+UC San Francisco Academic,4.1,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)
+Salesforce,4.4,"San Francisco, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+UC San Francisco Academic,4.2,"San Francisco, CA",Full-time,10000+ employees,college / university,education,$25 to $50 million (usd)
+Teladoc Health,4.0,"Mountain View, CA",Full-time,1001 to 5000 employees,company - public,health care,$100 to $500 million (usd)
+Facebook,4.3,"Menlo Park, CA",Full-time,10000+ employees,company - public,information technology,$10+ billion (usd)
+Cisco Systems,4.3,"San Jose, CA",Full-time,10000+ employees,company - private,information technology,$10+ billion (usd)
+KPMG,3.9,"Santa Clara, CA",Full-time,10000+ employees,company - private,business services,$1 to $2 billion (usd)
+Sensor Tower,4.0,"San Francisco, CA",Full-time,51 to 200 employees,company - private,business services,unknown / non-applicable
+Adventist Health,3.6,"Saint Helena, CA",Full-time,10000+ employees,nonprofit organization,health care,unknown / non-applicable
+EOS,3.6,"Fremont, CA",Full-time,501 to 1000 employees,company - private,information technology,unknown / non-applicable
+Allscripts,3.7,"San Francisco, CA",Full-time,5001 to 10000 employees,company - public,information technology,$1 to $2 billion (usd)
+Ursus,4.4,"Sunnyvale, CA",Full-time,1 to 50 employees,company - private,information technology,unknown / non-applicable
+Sentient Energy,3.9,"Santa Clara, CA",Full-time,10000+ employees,company - private,"oil, gas, energy & utilities",$10+ billion (usd)
+Walmart,3.4,"Sunnyvale, CA",Full-time,10000+ employees,company - public,retail,$10+ billion (usd)

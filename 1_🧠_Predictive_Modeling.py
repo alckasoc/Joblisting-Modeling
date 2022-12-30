@@ -162,13 +162,14 @@ models = {
 }
 
 # Load preprocessing pipeline.
-@st.cache
+@st.cache(allow_output_mutation=True)
 def load_pipeline(path):
     with open(path, "rb") as f:
         pipeline = joblib.load(f)
     return pipeline
 
 pipeline = load_pipeline(pipeline_path)
+pipeline.fit(pd.read_csv("./input/X_train_val.csv"))
 
 # Banner.
 image = np.asarray(Image.open("./img/banner/banner.png"))
