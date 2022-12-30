@@ -3,6 +3,7 @@ import os
 import base64
 import joblib
 from glob import glob
+from PIL import Image
 
 # Specific imports.
 import numpy as np
@@ -54,9 +55,24 @@ def set_bg_hack(main_bg, block_bg):
       <style>
       [data-testid="stVerticalBlock"] {{
             background: url(data:image/{main_bg_ext};base64,{base64.b64encode(open(block_bg, "rb").read()).decode()});
-            padding: 20px;
+            padding-bottom: 20px;
+            padding-left: 20px;
+            padding-right: 20px;
             border-radius: 10px;
-            width: 750px;
+            # margin: auto;
+            width: 745px;
+      }}
+      </style>
+      """,
+      unsafe_allow_html=True,
+      )
+
+    st.markdown(
+      f"""
+      <style>
+      .css-o3een2 {{
+            background-color: rgba(240,242,246, 0);
+            opacity: 0;
       }}
       </style>
       """,
@@ -91,10 +107,14 @@ st.set_page_config(
 )
 
 # Change background.
+# "./img/banner/banner.png"
+# "./img/background/green_red_hex_blurred_lightened_cropped1.png"
+# "./img/background/white_bg.png"
 set_bg_hack("./img/background/green_red_hex_blurred_lightened_cropped1.png",
             "./img/background/white_bg.png")
 
 # Load the data.
+@st.cache
 def load_data(path):
     return pd.read_csv(path)
 
@@ -142,6 +162,7 @@ models = {
 }
 
 # Load preprocessing pipeline.
+@st.cache
 def load_pipeline(path):
     with open(path, "rb") as f:
         pipeline = joblib.load(f)
@@ -149,8 +170,20 @@ def load_pipeline(path):
 
 pipeline = load_pipeline(pipeline_path)
 
+# Banner.
+image = np.asarray(Image.open("./img/banner/banner.png"))
+st.image(image)
+
 # Main prediction page.
-st.title("Can we Predict Data Scientist Salaries in CA From Company Statistics?")
+st.title("The most alluring job this century...")
+
+st.write("Can we predict Data Scientist salaries in California from company statistics?")
+st.caption("By Vincent Tu")
+st.write("\n\n\n\n\n")
+
+st.markdown("For more information on the process behind this, check out `The Data Science Process` section.")
+
+st.info("Check out the repo: https://github.com/alckasoc/Joblisting-Modeling !", icon="🎉")
 
 # User input features.
 company = st.text_input("Company (note, this is not a learned parameter)", "My Company")  # String.
@@ -165,9 +198,7 @@ company_sector = st.selectbox("Company Sector", df["sector"].unique())  # String
 revenue = st.selectbox("Revenue", df["revenue"].unique())  # String.
 job_desc = st.text_area("Job Description (note, this is not a learned parameter)", "Our Company is...")  # String.
 
-col1, col2, col3, col4 = st.columns([1, 0.5, 1, 1])
-with col3:
-    submit = st.button("Submit")
+submit = st.button("Submit")
 
 if submit:
     # Preprocessing.
@@ -182,9 +213,5 @@ if submit:
     user_output = "$" + str(round(user_output, 2)) + "k"
     st.success(f"Based on your provided info, this position has an estimated salary of: {user_output}!")
     st.balloons()
-
-print("it worked!")
-
-
 
 

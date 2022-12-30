@@ -59,6 +59,7 @@ Coarse Model Selection Resources/References:
     - [A Quick Guide to the LightGBM Library](https://towardsdatascience.com/a-quick-guide-to-lightgbm-library-ef5385db8d10) by Samrat Thapa
     - [LightGBM (Light Gradient Boosting Machine)](https://www.geeksforgeeks.org/lightgbm-light-gradient-boosting-machine/) by GeeksforGeeks shreyanshisingh28
     - [XGBOOST vs LightGBM: Which algorithm wins the race !!!](https://towardsdatascience.com/lightgbm-vs-xgboost-which-algorithm-win-the-race-1ff7dd4917d) by Sai Nikhilesh Kasturi
+    - [CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db) by Alvira Swalin
 - Neural Networks
     - [Deep Learning Crash Course for Beginners](https://www.youtube.com/watch?v=VyWAvY2CF9c) by freeCodeCamp
     - [Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI) by deeplizard
