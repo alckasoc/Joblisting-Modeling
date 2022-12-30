@@ -10,6 +10,11 @@ import numpy as np
 import pandas as pd
 import sklearn
 from sklearn.model_selection import train_test_split
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import StandardScaler
+from sklearn.compose import ColumnTransformer
+
 import streamlit as st
 
 # Custom imports.
@@ -163,22 +168,47 @@ models = {
 }
 
 # Load preprocessing pipeline.
-@st.cache
-def load_pipeline(path):
-    with open(path, "rb") as f:
-        pipeline = joblib.load(f)
-    return pipeline
+# @st.cache
+# def load_pipeline(path):
+#     with open(path, "rb") as f:
+#         pipeline = joblib.load(f)
+#     return pipeline
 
-pipeline = load_pipeline(pipeline_path)
+# pipeline = load_pipeline(pipeline_path)
 
 # Define preprocessing pipeline.
 # Note: the above (loading in a fitted pipeline) doesn't seem to work. :/
 
-# seed = 42
+seed = 42
 
-# y = df["salary estimate"]
-# X = df.drop(colulmns=["salary estimate", "company", "job title", "job description"])
-# X_train_val, _, _, _ = train_test_split(X, y, test_size=0.1, random_state=seed)
+y = df["salary estimate"]
+X = df.drop(columns=["salary estimate", "job title", "job description"])
+X_train_val, _, _, _ = train_test_split(X, y, test_size=0.1, random_state=seed)
+
+remove_attribs = ["company"]
+num_attribs = ["rating"]
+cat_attribs = ["headquarters", "job type", "size", "type", "sector", "revenue"]
+
+num_pipeline = Pipeline([
+    ("scaler", StandardScaler())
+])
+
+cat_pipeline = Pipeline([
+    ("one_hot", OneHotEncoder())
+])
+
+base_pipeline = ColumnTransformer([
+    ("num", num_pipeline, num_attribs),
+    ("cat", cat_pipeline, cat_attribs)
+])
+
+preprocessing_pipeline = Pipeline([
+    ("remover", CustomRemover(remove_attribs)),
+    ("cat_grouper", CatGrouper(cat_attribs, threshold=0.05)),
+    ("base", base_pipeline)
+])
+_ = preprocessing_pipeline.fit(X_train_val)
+
 
 # Banner.
 image = np.asarray(Image.open("./img/banner/banner.png"))
@@ -216,7 +246,7 @@ if submit:
                             job_type, size, company_type, company_sector,
                             revenue, job_desc]], columns=df.columns)
     user_input = user_input.drop(columns=["salary estimate", "job title", "job description"])
-    user_input_prep = pipeline.transform(user_input).toarray()
+    user_input_prep = preprocessing_pipeline.transform(user_input).toarray()
 
     # Prediction.
     user_output = get_pred_ranked_avg(models, rankings_norm, user_input_prep, y_test=None)[0]
